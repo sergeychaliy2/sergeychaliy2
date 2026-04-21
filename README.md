@@ -19,13 +19,7 @@
 
 <img src="https://img.shields.io/static/v1?label=%3E&message=./whoami.sh&color=0a0a0a&labelColor=00ffe1&style=for-the-badge" alt="./whoami.sh"/>
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td colspan="3"><img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-top.svg" width="100%" alt=""/></td>
-</tr>
-<tr>
-<td width="4" bgcolor="#00ffe1">&nbsp;</td>
-<td>
+<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-top.svg" width="100%" alt=""/>
 
 ```typescript
 const sergey = {
@@ -51,17 +45,13 @@ const sergey = {
 };
 ```
 
-</td>
-<td width="4" bgcolor="#ff006e">&nbsp;</td>
-</tr>
-<tr>
-<td colspan="3"><img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-bottom.svg" width="100%" alt=""/></td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-bottom.svg" width="100%" alt=""/>
 
 ---
 
 <img src="https://img.shields.io/static/v1?label=%3E&message=cat%20current_focus.log&color=0a0a0a&labelColor=ff006e&style=for-the-badge" alt="cat current_focus.log"/>
+
+<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-top.svg" width="100%" alt=""/>
 
 ```yaml
 🏭 Enterprise XR @ Acron (major Russian chemical producer):
@@ -82,6 +72,8 @@ const sergey = {
   - Neural rendering & Gaussian splatting in VR
   - Multi-agent orchestration with n8n
 ```
+
+<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-bottom.svg" width="100%" alt=""/>
 
 ---
 
@@ -263,6 +255,8 @@ Full-cycle web development: React/Next.js apps, landing pages, admin dashboards 
 
 <img src="https://img.shields.io/static/v1?label=%3E&message=./achievements.log&color=0a0a0a&labelColor=8338ec&style=for-the-badge" alt="./achievements.log"/>
 
+<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-top.svg" width="100%" alt=""/>
+
 ```diff
 + [Acron]        Architected closed-circuit AI agent ecosystem (STT/TTS/LLM on-prem)
 + [Acron]        Leading VR development department
@@ -278,6 +272,8 @@ Full-cycle web development: React/Next.js apps, landing pages, admin dashboards 
 + [Publishing]   Shipped titles to Google Play & RuStore with full release pipeline
 ```
 
+<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-bottom.svg" width="100%" alt=""/>
+
 ---
 
 <img src="https://img.shields.io/static/v1?label=%3E&message=netstat%20-an%20%7C%20grep%20ESTABLISHED&color=0a0a0a&labelColor=00ffe1&style=for-the-badge" alt="netstat -an | grep ESTABLISHED"/>
@@ -286,7 +282,7 @@ Full-cycle web development: React/Next.js apps, landing pages, admin dashboards 
 
 <a href="https://sergeyviarovich.tilda.ws"><img src="https://img.shields.io/badge/Portfolio-sergeyviarovich.tilda.ws-00ffe1?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0a0a0a" alt="Portfolio"/></a>
 <a href="https://github.com/sergeychaliy2"><img src="https://img.shields.io/badge/GitHub-sergeychaliy2-0a0a0a?style=for-the-badge&logo=github&logoColor=00ffe1" alt="GitHub"/></a>
-<img src="https://img.shields.io/badge/LinkedIn-Sergey_Chaliy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/sergey-chaliy-b77510327/"><img src="https://img.shields.io/badge/LinkedIn-Sergey_Chaliy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://t.me/russianew_s"><img src="https://img.shields.io/badge/Telegram-%40russianew__s-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="mailto:sergeyviarovich@gmail.com"><img src="https://img.shields.io/badge/Email-sergeyviarovich%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
