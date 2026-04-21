@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="50%" stop-color="#1a0b2e"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ffe1"/>
+      <stop offset="50%" stop-color="#8338ec"/>
+      <stop offset="100%" stop-color="#ff006e"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#00ffe1"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="250" fill="url(#bg)"/>
+
+  <!-- Grid pattern -->
+  <g stroke="#00ffe1" stroke-opacity="0.08" stroke-width="1">
+    <line x1="0" y1="50" x2="1200" y2="50"/>
+    <line x1="0" y1="100" x2="1200" y2="100"/>
+    <line x1="0" y1="150" x2="1200" y2="150"/>
+    <line x1="0" y1="200" x2="1200" y2="200"/>
+    <line x1="200" y1="0" x2="200" y2="250"/>
+    <line x1="400" y1="0" x2="400" y2="250"/>
+    <line x1="600" y1="0" x2="600" y2="250"/>
+    <line x1="800" y1="0" x2="800" y2="250"/>
+    <line x1="1000" y1="0" x2="1000" y2="250"/>
+  </g>
+
+  <!-- Decorative corners -->
+  <g stroke="#00ffe1" stroke-width="2" fill="none" opacity="0.6">
+    <path d="M 30 30 L 30 70 M 30 30 L 70 30"/>
+    <path d="M 1170 30 L 1170 70 M 1170 30 L 1130 30"/>
+    <path d="M 30 220 L 30 180 M 30 220 L 70 220"/>
+    <path d="M 1170 220 L 1170 180 M 1170 220 L 1130 220"/>
+  </g>
+
+  <!-- Main title -->
+  <text x="600" y="115" font-family="JetBrains Mono, Consolas, monospace" font-size="64" font-weight="900" fill="url(#titleGrad)" text-anchor="middle" filter="url(#glow)" letter-spacing="6">SERGEY CHALIY</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="160" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="500" fill="#00ffe1" text-anchor="middle" letter-spacing="3">&lt; Unity / XR Engineer · Full-Stack · AI / LLM /&gt;</text>
+
+  <!-- Accent line -->
+  <rect x="400" y="185" width="400" height="2" fill="url(#accent)"/>
+
+  <!-- Tags -->
+  <g font-family="JetBrains Mono, Consolas, monospace" font-size="12" font-weight="600" letter-spacing="2">
+    <text x="420" y="215" fill="#ff006e" text-anchor="start">[ VR ]</text>
+    <text x="490" y="215" fill="#8338ec" text-anchor="start">[ AR ]</text>
+    <text x="560" y="215" fill="#00ffe1" text-anchor="start">[ MR ]</text>
+    <text x="630" y="215" fill="#ffffff" text-anchor="start">[ UNITY ]</text>
+    <text x="720" y="215" fill="#00ffe1" text-anchor="start">[ LLM ]</text>
+    <text x="790" y="215" fill="#ff006e" text-anchor="start">[ WEB3 ]</text>
+  </g>
+</svg>
