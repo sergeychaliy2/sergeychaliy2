@@ -17,7 +17,7 @@
 
 ---
 
-### `> ./whoami.sh`
+<img src="https://img.shields.io/static/v1?label=%3E&message=./whoami.sh&color=0a0a0a&labelColor=00ffe1&style=for-the-badge" alt="./whoami.sh"/>
 
 ```typescript
 const sergey = {
@@ -45,7 +45,7 @@ const sergey = {
 
 ---
 
-### `> cat current_focus.log`
+<img src="https://img.shields.io/static/v1?label=%3E&message=cat%20current_focus.log&color=0a0a0a&labelColor=ff006e&style=for-the-badge" alt="cat current_focus.log"/>
 
 ```yaml
 🏭 Enterprise XR @ Acron (major Russian chemical producer):
@@ -69,7 +69,7 @@ const sergey = {
 
 ---
 
-### `> ls ./shipped_projects/ | head -10`
+<img src="https://img.shields.io/static/v1?label=%3E&message=ls%20./shipped_projects/%20%7C%20head%20-10&color=0a0a0a&labelColor=8338ec&style=for-the-badge" alt="ls ./shipped_projects/ | head -10"/>
 
 <table>
 <tr>
@@ -135,7 +135,7 @@ Full-cycle web development: React/Next.js apps, landing pages, admin dashboards 
 
 ---
 
-### `> cat tech_stack.log`
+<img src="https://img.shields.io/static/v1?label=%3E&message=cat%20tech_stack.log&color=0a0a0a&labelColor=00ffe1&style=for-the-badge" alt="cat tech_stack.log"/>
 
 <div align="center">
 
@@ -231,7 +231,7 @@ Full-cycle web development: React/Next.js apps, landing pages, admin dashboards 
 
 ---
 
-### `> git log --stat`
+<img src="https://img.shields.io/static/v1?label=%3E&message=git%20log%20--stat&color=0a0a0a&labelColor=ff006e&style=for-the-badge" alt="git log --stat"/>
 
 <div align="center">
 
@@ -245,7 +245,7 @@ Full-cycle web development: React/Next.js apps, landing pages, admin dashboards 
 
 ---
 
-### `> ./achievements.log`
+<img src="https://img.shields.io/static/v1?label=%3E&message=./achievements.log&color=0a0a0a&labelColor=8338ec&style=for-the-badge" alt="./achievements.log"/>
 
 ```diff
 + [Acron]        Architected closed-circuit AI agent ecosystem (STT/TTS/LLM on-prem)
@@ -264,7 +264,7 @@ Full-cycle web development: React/Next.js apps, landing pages, admin dashboards 
 
 ---
 
-### `> netstat -an | grep ESTABLISHED`
+<img src="https://img.shields.io/static/v1?label=%3E&message=netstat%20-an%20%7C%20grep%20ESTABLISHED&color=0a0a0a&labelColor=00ffe1&style=for-the-badge" alt="netstat -an | grep ESTABLISHED"/>
 
 <div align="center">
 
@@ -280,7 +280,7 @@ Full-cycle web development: React/Next.js apps, landing pages, admin dashboards 
 
 <div align="center">
 
-`> echo "Let's build something immersive together."`
+<img src="https://img.shields.io/static/v1?label=%3E&message=echo%20%22Let%27s%20build%20something%20immersive%20together.%22&color=0a0a0a&labelColor=ff006e&style=for-the-badge" alt="echo Let's build something immersive together"/>
 
 <img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
 
