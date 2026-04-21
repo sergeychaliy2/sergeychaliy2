@@ -1,24 +1,16 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=SERGEY%20CHALIY&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%3C%20Unity%20%2F%20XR%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20AI%2FLLM%20%2F%3E&descAlignY=58&descSize=17" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/banner.svg" alt="Sergey Chaliy — Unity / XR Engineer" width="100%"/>
 <a href="https://github.com/sergeychaliy2">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FFE1&center=true&vCenter=true&width=900&lines=%3E+INITIALIZING+NEURAL+INTERFACE...;%3E+ACCESS+GRANTED;%3E+UNITY+%C2%B7+XR+%C2%B7+FULL-STACK+%C2%B7+MOBILE+%C2%B7+LLM;%3E+STATUS%3A+BUILDING+IMMERSIVE+WORLDS..." alt="Typing SVG" />
 </a>
-
 <br/>
-
 ![Profile views](https://komarev.com/ghpvc/?username=sergeychaliy2&style=for-the-badge&color=00ffe1&labelColor=0a0a0a)
-[![GitHub followers](https://img.shields.io/github/followers/sergeychaliy2?style=for-the-badge&color=ff006e&labelColor=0a0a0a&logo=github)](https://github.com/sergeychaliy2?tab=followers)
+![GitHub followers](https://img.shields.io/github/followers/sergeychaliy2?style=for-the-badge&color=ff006e&labelColor=0a0a0a&logo=github)
 ![Experience](https://img.shields.io/badge/EXPERIENCE-6%2B%20YEARS-8338ec?style=for-the-badge&labelColor=0a0a0a)
 ![Remote](https://img.shields.io/badge/REMOTE-WORLDWIDE-00ffe1?style=for-the-badge&labelColor=0a0a0a)
-
 </div>
-
 ---
-
-## `> ./whoami.sh`
-
+`> ./whoami.sh`
 ```typescript
 const sergey = {
   role:        "Unity / XR Engineer · Full-Stack · AI/LLM",
@@ -42,11 +34,8 @@ const sergey = {
   philosophy:  "Ship from architecture to release. Own the full cycle.",
 };
 ```
-
 ---
-
-## `> cat current_focus.log`
-
+`> cat current_focus.log`
 ```yaml
 🏭 Enterprise XR @ Acron (major Russian chemical producer):
   - Leading VR development department
@@ -66,80 +55,55 @@ const sergey = {
   - Neural rendering & Gaussian splatting in VR
   - Multi-agent orchestration with n8n
 ```
-
 ---
-
-## `> ls ./shipped_projects/ | head -10`
-
+`> ls ./shipped_projects/ | head -10`
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🕌 **Dubai Map — Mixed Reality**
+🕌 Dubai Map — Mixed Reality
 Large-scale MR visualization for UAE government sector.
-[▶ Watch demo](http://www.youtube.com/watch?v=yCqns8rhgOQ)
-
-### 🚒 **Firefighting Truck — VR Training**
+▶ Watch demo
+🚒 Firefighting Truck — VR Training
 Full-cycle emergency response simulator.
-[▶ Watch demo](http://www.youtube.com/watch?v=mdwfxaavwzQ)
-
-### 🎖 **Special Forces — Military Training VR**
+▶ Watch demo
+🎖 Special Forces — Military Training VR
 Deployed at Rabdan Academy (UAE).
-[▶ Watch demo](http://www.youtube.com/watch?v=yrK9r7-7B7E)
-
-### 🔥 **Fire Safety Training**
+▶ Watch demo
+🔥 Fire Safety Training
 Enterprise-grade safety simulator with ML-based evaluation.
-[▶ Watch demo](http://www.youtube.com/watch?v=7mNIN8ij2_g)
-
-### 🚀 **UAE Mars Hope — VR Simulation**
+▶ Watch demo
+🚀 UAE Mars Hope — VR Simulation
 Interactive simulation of the UAE Hope Mars mission.
-[▶ Watch demo](http://www.youtube.com/watch?v=YYXdjZ7qXyw)
-
+▶ Watch demo
 </td>
 <td width="50%" valign="top">
-
-### 🏭 **PAO Acron — Virtual Factory**
+🏭 PAO Acron — Virtual Factory
 BIM-based digital twin of a chemical plant. Leading the VR department.
-
-### 🧠 **AI Training Platform**
+🧠 AI Training Platform
 Motion-capture training with ML-driven exercise evaluation (MLP, SVM).
-[▶ Watch demo](http://www.youtube.com/watch?v=B1iKENFw3_Q)
-
-### 🕵️ **VR Detective Quest**
+▶ Watch demo
+🕵️ VR Detective Quest
 NPC interaction + evidence analysis. Integrated into Rabdan Academy curriculum.
-
-### 🎮 **VR Shooter — Procedural Multiplayer**
+🎮 VR Shooter — Procedural Multiplayer
 Photon/Mirror, voice commands, custom map editor.
-
-### 🎓 **"Мой НовГУ" — Education App**
+🎓 "Мой НовГУ" — Education App
 Android/iOS platform for students and faculty at Novgorod State University.
-
-### 📱 **Mobile App — IAP / Social / Premium**
+📱 Mobile App — IAP / Social / Premium
 Mobile app with in-app purchases, social features, premium access & Telegram-bot integration.
-
-### 💹 **Exchange Trading Bots**
+💹 Exchange Trading Bots
 Automated trading bots for crypto (Binance, Bybit, OKX) and prediction markets (Polymarket). Strategy logic, risk management, real-time market data. Stack picked per task: Python / Node.js / TS / C#.
-
-### 🌐 **Custom Websites & Landing Pages**
+🌐 Custom Websites & Landing Pages
 Full-cycle web development: React/Next.js apps, landing pages, admin dashboards with backend integration. From design to deploy.
-
 </td>
 </tr>
 </table>
-
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/%F0%9F%93%82_Full_Portfolio-sergeyviarovich.tilda.ws-00ffe1?style=for-the-badge&labelColor=0a0a0a)](https://sergeyviarovich.tilda.ws)
-
+![Portfolio](https://img.shields.io/badge/%F0%9F%93%82_Full_Portfolio-sergeyviarovich.tilda.ws-00ffe1?style=for-the-badge&labelColor=0a0a0a)
 </div>
-
 ---
-
-## `> cat tech_stack.log`
-
+`> cat tech_stack.log`
 <div align="center">
-
-### ⸺  XR / GAME DEV  (CORE)  ⸺
+⸺  XR / GAME DEV  (CORE)  ⸺
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Meta Quest](https://img.shields.io/badge/Meta_Quest-0467DF?style=for-the-badge&logo=meta&logoColor=white)
@@ -148,24 +112,21 @@ Full-cycle web development: React/Next.js apps, landing pages, admin dashboards 
 ![HoloLens](https://img.shields.io/badge/HoloLens_MRTK-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Vuforia](https://img.shields.io/badge/Vuforia-000000?style=for-the-badge&logo=ptc&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-### ⸺  LANGUAGES  ⸺
+⸺  LANGUAGES  ⸺
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⸺  BACKEND  ⸺
+⸺  BACKEND  ⸺
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Firebase Functions](https://img.shields.io/badge/Firebase_Functions-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### ⸺  FRONTEND / WEB  ⸺
+⸺  FRONTEND / WEB  ⸺
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -173,70 +134,54 @@ Full-cycle web development: React/Next.js apps, landing pages, admin dashboards 
 ![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Tilda](https://img.shields.io/badge/Tilda-FFCD32?style=for-the-badge&logo=tilda&logoColor=black)
-
-### ⸺  TRADING / EXCHANGE BOTS  ⸺
+⸺  TRADING / EXCHANGE BOTS  ⸺
 ![Binance](https://img.shields.io/badge/Binance_API-F0B90B?style=for-the-badge&logo=binance&logoColor=black)
 ![Bybit](https://img.shields.io/badge/Bybit_API-F7A600?style=for-the-badge&logoColor=white)
 ![OKX](https://img.shields.io/badge/OKX_API-000000?style=for-the-badge&logoColor=white)
 ![Polymarket](https://img.shields.io/badge/Polymarket-2D9CDB?style=for-the-badge&logoColor=white)
 ![ccxt](https://img.shields.io/badge/ccxt-1E1E1E?style=for-the-badge&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### ⸺  MOBILE & MONETIZATION  ⸺
+⸺  MOBILE & MONETIZATION  ⸺
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![IAP](https://img.shields.io/badge/In--App_Purchases-34A853?style=for-the-badge&logo=googleplay&logoColor=white)
 ![YooKassa](https://img.shields.io/badge/%D0%AEKassa-0022E5?style=for-the-badge&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![RuStore](https://img.shields.io/badge/RuStore-000000?style=for-the-badge&logoColor=white)
-
-### ⸺  AI / LLM / ML  ⸺
+⸺  AI / LLM / ML  ⸺
 ![Local LLM](https://img.shields.io/badge/Local_LLM-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper_STT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n_Agents-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![HeyGen](https://img.shields.io/badge/HeyGen_Avatars-6366F1?style=for-the-badge&logoColor=white)
 ![ML](https://img.shields.io/badge/ML_MLP_SVM-EE4C2C?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### ⸺  MULTIPLAYER / NETWORK  ⸺
+⸺  MULTIPLAYER / NETWORK  ⸺
 ![Photon](https://img.shields.io/badge/Photon_PUN_Fusion-1E1E1E?style=for-the-badge&logoColor=white)
 ![Mirror](https://img.shields.io/badge/Mirror_Networking-4B0082?style=for-the-badge&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![LiveKit](https://img.shields.io/badge/LiveKit-FF4D4F?style=for-the-badge&logoColor=white)
-
-### ⸺  DATABASES / CLOUD  ⸺
+⸺  DATABASES / CLOUD  ⸺
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### ⸺  DEVOPS / OPTIMIZATION  ⸺
+⸺  DEVOPS / OPTIMIZATION  ⸺
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Addressables](https://img.shields.io/badge/Addressables-000000?style=for-the-badge&logoColor=white)
 ![LOD](https://img.shields.io/badge/LOD_%7C_Occlusion_%7C_Batching-5865F2?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-
 </div>
-
 ---
-
-## `> git log --stat`
-
+`> git log --stat`
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=sergeychaliy2&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ffe1&icon_color=ff006e&text_color=ffffff&ring_color=8338ec&count_private=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergeychaliy2&theme=radical&hide_border=true&background=0a0a0a&ring=00ffe1&fire=ff006e&currStreakLabel=00ffe1" width="49%" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeychaliy2&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ffe1&text_color=ffffff&langs_count=10" width="49%" />
 <img src="https://github-profile-trophy.vercel.app/?username=sergeychaliy2&theme=radical&no-frame=true&no-bg=true&row=2&column=3&margin-w=10" width="49%" />
-
 </div>
-
 ---
-
-## `> ./achievements.log`
-
+`> ./achievements.log`
 ```diff
 + [Acron]        Architected closed-circuit AI agent ecosystem (STT/TTS/LLM on-prem)
 + [Acron]        Leading VR development department
@@ -251,29 +196,18 @@ Full-cycle web development: React/Next.js apps, landing pages, admin dashboards 
 + [ML]           Built AI exercise-control system (MLP, SVM) from scratch
 + [Publishing]   Shipped titles to Google Play & RuStore with full release pipeline
 ```
-
 ---
-
-## `> netstat -an | grep ESTABLISHED`
-
+`> netstat -an | grep ESTABLISHED`
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-sergeyviarovich.tilda.ws-00ffe1?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0a0a0a)](https://sergeyviarovich.tilda.ws)
-[![GitHub](https://img.shields.io/badge/GitHub-sergeychaliy2-0a0a0a?style=for-the-badge&logo=github&logoColor=00ffe1)](https://github.com/sergeychaliy2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergey_Chaliy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-chaliy-b77510327/?locale=ru)
-[![Telegram](https://img.shields.io/badge/Telegram-%40russianew__s-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/russianew_s)
-[![Email](https://img.shields.io/badge/Email-sergeyviarovich%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergeyviarovich@gmail.com)
-
+![Portfolio](https://img.shields.io/badge/Portfolio-sergeyviarovich.tilda.ws-00ffe1?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0a0a0a)
+![GitHub](https://img.shields.io/badge/GitHub-sergeychaliy2-0a0a0a?style=for-the-badge&logo=github&logoColor=00ffe1)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergey_Chaliy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-%40russianew__s-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Email](https://img.shields.io/badge/Email-sergeyviarovich%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 </div>
-
 ---
-
 <div align="center">
-
-### `> echo "Let's build something immersive together."`
-
+`> echo "Let's build something immersive together."`
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/footer.svg" alt="footer" width="100%"/>
 </div>
