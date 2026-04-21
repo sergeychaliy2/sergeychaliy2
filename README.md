@@ -19,6 +19,8 @@
 
 <img src="https://img.shields.io/static/v1?label=%3E&message=./whoami.sh&color=0a0a0a&labelColor=00ffe1&style=for-the-badge" alt="./whoami.sh"/>
 
+<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-top.svg" width="100%" alt=""/>
+
 ```typescript
 const sergey = {
   role:        "Unity / XR Engineer · Full-Stack · AI/LLM",
@@ -42,6 +44,8 @@ const sergey = {
   philosophy:  "Ship from architecture to release. Own the full cycle.",
 };
 ```
+
+<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-bottom.svg" width="100%" alt=""/>
 
 ---
 
