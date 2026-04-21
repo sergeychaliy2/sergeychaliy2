@@ -8,9 +8,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sergeychaliy2&style=for-the-badge&color=00ffe1&labelColor=0a0a0a" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=sergeychaliy2&base=2500&style=for-the-badge&color=00ffe1&labelColor=0a0a0a" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/sergeychaliy2?style=for-the-badge&color=ff006e&labelColor=0a0a0a&logo=github" alt="GitHub followers"/>
-<img src="https://img.shields.io/badge/EXPERIENCE-6%2B%20YEARS-8338ec?style=for-the-badge&labelColor=0a0a0a" alt="Experience"/>
+<img src="https://img.shields.io/badge/EXPERIENCE-11%20YEARS-8338ec?style=for-the-badge&labelColor=0a0a0a" alt="Experience"/>
 <img src="https://img.shields.io/badge/REMOTE-WORLDWIDE-00ffe1?style=for-the-badge&labelColor=0a0a0a" alt="Remote"/>
 
 </div>
@@ -22,26 +22,34 @@
 <img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-top.svg" width="100%" alt=""/>
 
 ```typescript
+// ─────────── CORE ───────────
 const sergey = {
   role:        "Unity / XR Engineer · Full-Stack · AI/LLM",
   location:    "Veliky Novgorod, Russia → Remote Worldwide",
-  experience:  "6+ years shipping production XR, mobile & web systems",
-  currently:   ["Immerseas — Unity Developer", "PAO Acron — Programmer"],
-  education:   "MSc in AI, Yaroslav-the-Wise Novgorod State University",
+  experience:  "11 years cumulative · parallel engagements since 2019",
+  education:   "MSc in AI · Yaroslav-the-Wise Novgorod State University",
 
-  specialties: [
-    "VR/AR/MR training simulators for enterprise (B2B)",
-    "Cross-platform mobile games & apps (Android / iOS)",
-    "Full-stack web: landing pages, dashboards, admin panels",
-    "Trading bots & exchange automation (crypto / stock APIs)",
-    "Node.js backends, internal editors, production tooling",
-    "On-device LLM agents & voice assistants",
-    "Digital twins with BIM and real-time synchronization",
+  // ─────────── CURRENT ───────────
+  currently: [
+    "🌊 Immerseas  → Unity Developer",
+    "🏭 PAO Acron  → Programmer · Head of VR dept",
   ],
 
-  languages:   { ru: "native", en: "C1 — Advanced" },
-  portfolio:   "https://sergeyviarovich.tilda.ws",
-  philosophy:  "Ship from architecture to release. Own the full cycle.",
+  // ─────────── EXPERTISE ───────────
+  specialties: [
+    "🎮 VR/AR/MR training simulators · enterprise B2B",
+    "📱 Cross-platform mobile games & apps · Android/iOS",
+    "🌐 Full-stack web · landing pages · dashboards · admin",
+    "💹 Trading bots · crypto/stock exchange automation",
+    "⚙️  Node.js backends · internal editors · production tooling",
+    "🧠 On-device LLM agents & voice assistants",
+    "🔗 Digital twins · BIM · real-time synchronization",
+  ],
+
+  // ─────────── META ───────────
+  languages:  { ru: "native", en: "C1 — Advanced" },
+  portfolio:  "https://sergeyviarovich.tilda.ws",
+  philosophy: "Ship from architecture to release. Own the full cycle.",
 };
 ```
 
