@@ -19,7 +19,13 @@
 
 <img src="https://img.shields.io/static/v1?label=%3E&message=./whoami.sh&color=0a0a0a&labelColor=00ffe1&style=for-the-badge" alt="./whoami.sh"/>
 
-<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-top.svg" width="100%" alt=""/>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td colspan="3"><img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-top.svg" width="100%" alt=""/></td>
+</tr>
+<tr>
+<td width="4" bgcolor="#00ffe1">&nbsp;</td>
+<td>
 
 ```typescript
 const sergey = {
@@ -45,7 +51,13 @@ const sergey = {
 };
 ```
 
-<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-bottom.svg" width="100%" alt=""/>
+</td>
+<td width="4" bgcolor="#ff006e">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3"><img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-bottom.svg" width="100%" alt=""/></td>
+</tr>
+</table>
 
 ---
 
