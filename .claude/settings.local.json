@@ -9,7 +9,8 @@
       "Bash(curl -s -o /dev/null -w \"footer.svg: %{http_code}\\\\n\" \"https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/footer.svg\")",
       "Bash(curl -s -o /dev/null -w \"snake \\(user output\\): %{http_code}\\\\n\" \"https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/output/github-contribution-grid-snake-dark.svg\")",
       "Bash(curl -s -o /dev/null -w \"streak demolab: %{http_code}\\\\n\" \"https://streak-stats.demolab.com/?user=sergeychaliy2&theme=radical\")",
-      "Bash(curl -s -o /dev/null -w \"streak heroku: %{http_code}\\\\n\" \"https://github-readme-streak-stats.herokuapp.com/?user=sergeychaliy2&theme=radical\" --max-time 15)"
+      "Bash(curl -s -o /dev/null -w \"streak heroku: %{http_code}\\\\n\" \"https://github-readme-streak-stats.herokuapp.com/?user=sergeychaliy2&theme=radical\" --max-time 15)",
+      "Bash(git -C \"C:/VS_Code/Info/sergeychaliy2\" diff --stat HEAD)"
     ]
   }
 }
