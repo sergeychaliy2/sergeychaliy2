@@ -12,7 +12,11 @@
       "Bash(curl -s -o /dev/null -w \"streak heroku: %{http_code}\\\\n\" \"https://github-readme-streak-stats.herokuapp.com/?user=sergeychaliy2&theme=radical\" --max-time 15)",
       "Bash(git -C \"C:/VS_Code/Info/sergeychaliy2\" diff --stat HEAD)",
       "Bash(\" \"C:/VS_Code/Info/sergeychaliy2/README.md\" | head -30)",
-      "Bash(grep -n \"shields.io/static/v1\\\\|^---$\\\\|^```\" \"C:/VS_Code/Info/sergeychaliy2/README.md\" | head -30)"
+      "Bash(grep -n \"shields.io/static/v1\\\\|^---$\\\\|^```\" \"C:/VS_Code/Info/sergeychaliy2/README.md\" | head -30)",
+      "PowerShell($rtf = Get-Content -Raw -Encoding Default \"C:\\\\Users\\\\Sergey\\\\Downloads\\\\Telegram Desktop\\\\Резюме_Unity_developer_Сергей_Максимович_Чалый_от_21_04_2026_16.rtf\"; Add-Type -AssemblyName System.Windows.Forms; $rtb = New-Object System.Windows.Forms.RichTextBox; $rtb.Rtf = $rtf; $txt = $rtb.Text; $outPath = \"C:\\\\VS_Code\\\\Info\\\\sergeychaliy2\\\\.claude\\\\resume.txt\"; $txt | Out-File -FilePath $outPath -Encoding utf8; Write-Output \\(\"Length: \" + $txt.Length\\))",
+      "Bash(curl -s -o /dev/null -w \"komarev with base=2500: %{http_code}\\\\n\" \"https://komarev.com/ghpvc/?username=sergeychaliy2&base=2500&style=for-the-badge&color=00ffe1&labelColor=0a0a0a\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" \"https://komarev.com/ghpvc/?username=sergeychaliy2&base=2500&style=for-the-badge&color=00ffe1&labelColor=0a0a0a\")",
+      "Bash(curl -sL -o /dev/null -w \"%{http_code}\\\\n\" \"https://komarev.com/ghpvc/?username=sergeychaliy2&base=2500\" --retry 3 --connect-timeout 10)"
     ]
   }
 }
