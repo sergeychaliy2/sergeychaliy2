@@ -22,20 +22,17 @@
 <img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-top.svg" width="100%" alt=""/>
 
 ```typescript
-// ─────────── CORE ───────────
 const sergey = {
   role:        "Unity / XR Engineer · Full-Stack · AI/LLM",
   location:    "Veliky Novgorod, Russia → Remote Worldwide",
   experience:  "11 years cumulative · parallel engagements since 2019",
   education:   "MSc in AI · Yaroslav-the-Wise Novgorod State University",
 
-  // ─────────── CURRENT ───────────
   currently: [
     "🌊 Immerseas  → Unity Developer",
     "🏭 PAO Acron  → Programmer · Head of VR dept",
   ],
 
-  // ─────────── EXPERTISE ───────────
   specialties: [
     "🎮 VR/AR/MR training simulators · enterprise B2B",
     "📱 Cross-platform mobile games & apps · Android/iOS",
@@ -46,7 +43,6 @@ const sergey = {
     "🔗 Digital twins · BIM · real-time synchronization",
   ],
 
-  // ─────────── META ───────────
   languages:  { ru: "native", en: "C1 — Advanced" },
   portfolio:  "https://sergeyviarovich.tilda.ws",
   philosophy: "Ship from architecture to release. Own the full cycle.",
