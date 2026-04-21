@@ -175,10 +175,10 @@ Full-cycle web development: React/Next.js apps, landing pages, admin dashboards 
 ---
 `> git log --stat`
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sergeychaliy2&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ffe1&icon_color=ff006e&text_color=ffffff&ring_color=8338ec&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sergeychaliy2&theme=radical&hide_border=true&background=0a0a0a&ring=00ffe1&fire=ff006e&currStreakLabel=00ffe1" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeychaliy2&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ffe1&text_color=ffffff&langs_count=10" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=sergeychaliy2&theme=radical&no-frame=true&no-bg=true&row=2&column=3&margin-w=10" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sergeychaliy2&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ffe1&icon_color=ff006e&text_color=ffffff&ring_color=8338ec&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=sergeychaliy2&theme=radical&hide_border=true&background=0a0a0a&ring=00ffe1&fire=ff006e&currStreakLabel=00ffe1" width="49%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergeychaliy2&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ffe1&text_color=ffffff&langs_count=10" width="49%" alt="Top Languages" />
+<img src="https://github-profile-trophy.vercel.app/?username=sergeychaliy2&theme=radical&no-frame=true&no-bg=true&row=2&column=3&margin-w=10" width="49%" alt="Trophies" />
 </div>
 ---
 `> ./achievements.log`
@@ -208,6 +208,6 @@ Full-cycle web development: React/Next.js apps, landing pages, admin dashboards 
 ---
 <div align="center">
 `> echo "Let's build something immersive together."`
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
 <img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/footer.svg" alt="footer" width="100%"/>
 </div>
