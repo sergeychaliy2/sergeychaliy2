@@ -74,7 +74,7 @@
 </details>
 
 <details>
-<summary><b>🌊 XR studio</b> &nbsp;·&nbsp; <i>Unity Developer</i> &nbsp;·&nbsp; <code>Dec 2023 — Jun 2026</code> &nbsp;·&nbsp; Nizhny Novgorod / UAE · systems integration</summary>
+<summary><b>🌊 XR studio</b> &nbsp;·&nbsp; <i>Unity Developer</i> &nbsp;·&nbsp; <code>Dec 2023 — Sep 2026</code> &nbsp;·&nbsp; Nizhny Novgorod / UAE · systems integration</summary>
 
 <br/>
 
