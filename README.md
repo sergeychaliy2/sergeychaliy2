@@ -23,61 +23,7 @@
 
 <img src="https://img.shields.io/static/v1?label=%3E&message=./whoami.sh&color=0a0a0a&labelColor=00ffe1&style=for-the-badge" alt="./whoami.sh"/>
 
-<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-top.svg" width="100%" alt=""/>
-
-```typescript
-const sergey = {
-  role:        "Senior Unity / XR Engineer · Full-Stack · AI/LLM",
-  location:    "Veliky Novgorod, Russia → Remote Worldwide",
-  experience:  "7 years cumulative · parallel engagements since 2020",
-  education:   "MSc in AI · Yaroslav-the-Wise Novgorod State University",
-
-  currently: [
-    { at: "Industrial enterprise · chemical manufacturing",
-      as: "Programmer · leading the VR/XR track", since: "Aug 2025" },
-
-    { at: "Contract work",
-      as: "Backend developer",                    since: "Apr 2025" },
-  ],
-
-  previously: [
-    { at: "XR studio",
-      as: "Unity Developer · VR/AR/MR for UAE & global clients",
-      period: "Dec 2023 — Jun 2026" },
-
-    { at: "Mobile studio",
-      as: "Unity Developer · full-cycle F2P mobile",
-      period: "Aug 2023 — Nov 2024" },
-
-    { at: "University engineering school",
-      as: "Unity Developer · medical VR + ML research",
-      period: "Jan 2020 — Jun 2025" },
-  ],
-
-  specialties: [
-    "🎮 VR/AR/MR training simulators · enterprise B2B",
-    "📱 Cross-platform mobile · Unity & Flutter · Android/iOS",
-    "🌐 Full-stack web · landing pages · dashboards · admin",
-    "💹 Trading bots · crypto/stock exchange automation",
-    "⚙️  Node.js backends · internal editors · production tooling",
-    "🗄️  Databases & infra · PostgreSQL · MongoDB · Docker on-prem",
-    "🧠 On-prem LLM agents & voice assistants · custom STT/TTS",
-    "🔗 Digital twins · BIM · real-time synchronization",
-  ],
-
-  ownsEndToEnd: [
-    "architecture", "client", "backend", "database",
-    "infrastructure", "CI/CD", "store release", "production support",
-  ],
-
-  languages:  { ru: "native", en: "C1 — Advanced" },
-  portfolio:  ["https://sergeychaliy2.github.io",
-               "https://sergeyviarovich.tilda.ws"],
-  philosophy: "Ship from architecture to release. Own the full cycle.",
-};
-```
-
-<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-bottom.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/whoami.svg" width="100%" alt="Identity, current and past engagements, specialties"/>
 
 ---
 
@@ -102,36 +48,7 @@ const sergey = {
 
 <img src="https://img.shields.io/static/v1?label=%3E&message=cat%20current_focus.log&color=0a0a0a&labelColor=8338ec&style=for-the-badge" alt="cat current_focus.log"/>
 
-<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-top.svg" width="100%" alt=""/>
-
-```yaml
-🏭 Enterprise XR @ an industrial chemical manufacturer:
-  - Leading the VR/XR track end to end — scoping, development, acceptance
-  - Digital twin of the production site: BIM geometry + process logic,
-    live data pulled from external systems over REST API
-  - Unity Editor toolkit — flagship is a tech-scenario constructor:
-    plant engineers author training cases without a developer per iteration
-  - Closed-circuit AI agent ecosystem: on-prem LLMs, in-house STT/TTS
-    services (zero external cloud), agent orchestration via n8n
-  - In-simulator voice assistants: parse operator commands, prompt by regulation
-  - CPU/GPU profiling to a stable 72 FPS on Quest 3 with BIM geometry
-  - Flutter & Unity apps for internal workflows, native Android/iOS modules
-  - Node.js services, PostgreSQL / MongoDB, Docker on-prem, server administration
-  - Ships to Quest 2/3/Pro, HoloLens 2, HTC Vive, XREAL, SteamVR, iOS, Android, PC
-
-🎣 Contract work — backend (since Apr 2025):
-  - REST API and server-side logic, third-party integrations
-  - Schema design, migrations, query optimization, production support
-  - Docker, Yandex Cloud deployment, CI/CD, monitoring
-  - Flutter client wired to the same backend
-
-🔬 R&D interests:
-  - Local LLM inference on XR devices
-  - Neural rendering & Gaussian splatting in VR
-  - Multi-agent orchestration with n8n
-```
-
-<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-bottom.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/focus.svg" width="100%" alt="Current focus: enterprise XR, contract backend, R&amp;D interests"/>
 
 ---
 
