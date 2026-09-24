@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=sergeychaliy2&style=for-the-badge&color=00ffe1&labelColor=0a0a0a" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/sergeychaliy2?style=for-the-badge&color=ff006e&labelColor=0a0a0a&logo=github" alt="GitHub followers"/>
-<img src="https://img.shields.io/badge/EXPERIENCE-7%20YEARS-8338ec?style=for-the-badge&labelColor=0a0a0a" alt="Experience"/>
+<img src="https://img.shields.io/badge/EXPERIENCE-SINCE%202020-8338ec?style=for-the-badge&labelColor=0a0a0a" alt="Experience"/>
 <img src="https://img.shields.io/badge/REMOTE-WORLDWIDE-00ffe1?style=for-the-badge&labelColor=0a0a0a" alt="Remote"/>
 <br/>
 <img src="https://img.shields.io/badge/MSc-ARTIFICIAL%20INTELLIGENCE-ff006e?style=for-the-badge&labelColor=0a0a0a" alt="MSc in AI"/>
@@ -217,7 +217,7 @@ Interactive learning platform for children.<br/>
 
 <div align="center">
 
-**⸺  TOOLS, MOBILE & WEB  ⸺**
+**⸺  MOBILE, WEB & BACKEND  ⸺**
 
 </div>
 
@@ -225,23 +225,58 @@ Interactive learning platform for children.<br/>
 <tr>
 <td width="50%" valign="top">
 
-**📦 Playable Build Kit** — *own tool*<br/>
-Unity Editor plugin for ad creatives. One HTML file out: assets inlined as base64, textures recompressed, unused code stripped, weight validated against Unity Ads / AppLovin / Google Ads / Mintegral / IronSource limits.
-
 **🎓 University Education App**<br/>
-Android/iOS platform for students and faculty at a state university.
+Android/iOS platform for students and faculty at a state university: schedule, grades, building maps, campus navigator. Published on Google Play.
 
 **📱 Mobile F2P Apps — IAP / Social / Premium**<br/>
 Full-cycle F2P titles with in-app purchases, subscriptions, server-validated receipts and Telegram-bot integration.
 
+**🛒 E-commerce Platform**<br/>
+Online store with a filterable catalog, product pages, cart and checkout — front end and back end.
+
 </td>
 <td width="50%" valign="top">
 
-**💹 Exchange Trading Bots**<br/>
-Automated trading for crypto (Binance, Bybit, OKX) and prediction markets (Polymarket). Strategy logic, risk management, real-time market data. Stack picked per task: Python / Node.js / TS / C#.
+**🗄 Backend & Admin Console — Learning Platform**<br/>
+Server side and web admin for a VR learning platform: scenario library, stage configuration, roles and permissions, session launch and monitoring, client-to-server connection.
 
 **🌐 Custom Websites & Landing Pages**<br/>
 Full-cycle web: React/Next.js apps, landings, admin dashboards with backend integration. From design to deploy.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**⸺  EMBEDDED, TOOLING & AUTOMATION  ⸺**
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🚘 Automotive Firmware**<br/>
+Firmware for vehicles: a custom in-car interface and navigation on a large touchscreen, with low-level integration into vehicle systems. C / C++, embedded.
+
+**🧪 NexusBuild — Custom Profiler & Build Tool**<br/>
+In-engine tool for build automation and performance profiling: status dashboard, per-platform build profiles, metrics (build time, asset size, optimization) and a detailed log.
+
+**📦 Playable Build Kit** — *own tool*<br/>
+Unity Editor plugin for ad creatives. One HTML file out: assets inlined as base64, textures recompressed, unused code stripped, weight validated against Unity Ads / AppLovin / Google Ads / Mintegral / IronSource limits.
+
+</td>
+<td width="50%" valign="top">
+
+**🌲 Timber Measurement — Computer Vision**<br/>
+Mobile app that measures timber stacks and log trucks from a photo: AI log detection, counting and analytics.
+
+**🛰 GPS Tracker & Navigation**<br/>
+Mobile tracker-navigator: track recording, speedometer and compass, custom map markers, voice guidance.
+
+**💹 Exchange Trading Bots**<br/>
+Automated trading for crypto (Binance, Bybit, OKX) and prediction markets (Polymarket). Strategy logic, risk management, real-time market data. Stack picked per task: Python / Node.js / TS / C#.
 
 </td>
 </tr>
@@ -266,6 +301,7 @@ XR RUNTIMES   OpenXR   SteamVR   Oculus SDK   MRTK   Vuforia   Hurricane VR   VR
 SPATIAL       Spatial Anchors    Motion Capture (Neuron Perception)    BIM
 MOBILE        iOS   Android      (Unity · Flutter · native modules)
 DESKTOP/WEB   PC    WebGL        HTML5 playable creatives
+EMBEDDED      Automotive head units    custom firmware    low-level vehicle integration
 STOREFRONTS   App Store   Google Play   RuStore   —   build · signing · publishing · updates
 ```
 
@@ -410,6 +446,15 @@ STOREFRONTS   App Store   Google Play   RuStore   —   build · signing · publ
 <img src="https://img.shields.io/badge/DI_Zenject_%7C_Extenject-BE185D?style=for-the-badge&logoColor=white" alt="Zenject / Extenject"/>
 <img src="https://img.shields.io/badge/Event_Bus-374151?style=for-the-badge&logoColor=white" alt="Event Bus"/>
 <img src="https://img.shields.io/badge/Feature_Flags-059669?style=for-the-badge&logoColor=white" alt="Feature Flags"/>
+
+**⸺  EMBEDDED & AUTOMOTIVE  ⸺**
+
+<img src="https://img.shields.io/badge/C_%2F_C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C / C++"/>
+<img src="https://img.shields.io/badge/Embedded_Firmware-4B5563?style=for-the-badge&logoColor=white" alt="Embedded firmware"/>
+<img src="https://img.shields.io/badge/Automotive_HMI-1F2937?style=for-the-badge&logoColor=white" alt="Automotive HMI"/>
+<img src="https://img.shields.io/badge/Low--level_integration-6A0DAD?style=for-the-badge&logoColor=white" alt="Low-level integration"/>
+<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logoColor=white" alt="Computer vision"/>
+<img src="https://img.shields.io/badge/Geolocation_%C2%B7_Maps-0F766E?style=for-the-badge&logoColor=white" alt="Geolocation and maps"/>
 
 **⸺  GRAPHICS & PROCESS  ⸺**
 
