@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 132" width="1200" height="132">
+<defs>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#0a0a0a"/><stop offset="50%" stop-color="#1a0b2e"/><stop offset="100%" stop-color="#0a0a0a"/></linearGradient>
+<linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#00ffe1"/><stop offset="50%" stop-color="#8338ec"/><stop offset="100%" stop-color="#ff006e"/></linearGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="132" rx="16" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="130" rx="15" fill="none" stroke="url(#accent)" stroke-width="2"/>
+<rect x="0" y="0" width="6" height="132" rx="3" fill="url(#accent)"/>
+<line x1="60" y1="0" x2="60" y2="132" stroke="#00ffe1" stroke-opacity="0.05"/>
+<line x1="180" y1="0" x2="180" y2="132" stroke="#00ffe1" stroke-opacity="0.05"/>
+<line x1="300" y1="0" x2="300" y2="132" stroke="#00ffe1" stroke-opacity="0.05"/>
+<line x1="420" y1="0" x2="420" y2="132" stroke="#00ffe1" stroke-opacity="0.05"/>
+<line x1="540" y1="0" x2="540" y2="132" stroke="#00ffe1" stroke-opacity="0.05"/>
+<line x1="660" y1="0" x2="660" y2="132" stroke="#00ffe1" stroke-opacity="0.05"/>
+<line x1="780" y1="0" x2="780" y2="132" stroke="#00ffe1" stroke-opacity="0.05"/>
+<line x1="900" y1="0" x2="900" y2="132" stroke="#00ffe1" stroke-opacity="0.05"/>
+<line x1="1020" y1="0" x2="1020" y2="132" stroke="#00ffe1" stroke-opacity="0.05"/>
+<text x="40" y="44" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="700" fill="#00ffe1" letter-spacing="3">LIVE PORTFOLIO</text>
+<g filter="url(#glow)"><text x="38" y="84" font-family="JetBrains Mono, Consolas, monospace" font-size="31" font-weight="800" fill="#ffffff" letter-spacing="0.5">sergeychaliy2.github.io</text></g>
+<text x="40" y="110" font-family="JetBrains Mono, Consolas, monospace" font-size="12.5" font-weight="500" fill="#ffffff" opacity="0.62">37 projects · 10 video demos · case descriptions · RU / EN</text>
+<rect x="643.15" y="34" width="108.8" height="26" rx="13" fill="#00ffe1" fill-opacity="0.10" stroke="#00ffe1" stroke-opacity="0.55"/><text x="656.15" y="51.5" font-family="JetBrains Mono, Consolas, monospace" font-size="11.5" font-weight="500" fill="#ffffff" opacity="0.92">VR / AR / MR</text><rect x="761.95" y="34" width="115.7" height="26" rx="13" fill="#8338ec" fill-opacity="0.10" stroke="#8338ec" stroke-opacity="0.55"/><text x="774.95" y="51.5" font-family="JetBrains Mono, Consolas, monospace" font-size="11.5" font-weight="500" fill="#ffffff" opacity="0.92">Digital twins</text><rect x="887.65" y="34" width="81.2" height="26" rx="13" fill="#ff006e" fill-opacity="0.10" stroke="#ff006e" stroke-opacity="0.55"/><text x="900.65" y="51.5" font-family="JetBrains Mono, Consolas, monospace" font-size="11.5" font-weight="500" fill="#ffffff" opacity="0.92">AI / LLM</text>
+<rect x="638.95" y="70" width="67.4" height="26" rx="13" fill="#8338ec" fill-opacity="0.10" stroke="#8338ec" stroke-opacity="0.55"/><text x="651.95" y="87.5" font-family="JetBrains Mono, Consolas, monospace" font-size="11.5" font-weight="500" fill="#ffffff" opacity="0.92">Mobile</text><rect x="716.35" y="70" width="115.7" height="26" rx="13" fill="#ff006e" fill-opacity="0.10" stroke="#ff006e" stroke-opacity="0.55"/><text x="729.35" y="87.5" font-family="JetBrains Mono, Consolas, monospace" font-size="11.5" font-weight="500" fill="#ffffff" opacity="0.92">Web / Backend</text><rect x="842.05" y="70" width="60.5" height="26" rx="13" fill="#00ffe1" fill-opacity="0.10" stroke="#00ffe1" stroke-opacity="0.55"/><text x="855.05" y="87.5" font-family="JetBrains Mono, Consolas, monospace" font-size="11.5" font-weight="500" fill="#ffffff" opacity="0.92">Tools</text><rect x="912.55" y="70" width="60.5" height="26" rx="13" fill="#8338ec" fill-opacity="0.10" stroke="#8338ec" stroke-opacity="0.55"/><text x="925.55" y="87.5" font-family="JetBrains Mono, Consolas, monospace" font-size="11.5" font-weight="500" fill="#ffffff" opacity="0.92">Games</text>
+<rect x="1012" y="50" width="152" height="40" rx="20" fill="#00ffe1" fill-opacity="0.14" stroke="#00ffe1" stroke-opacity="0.85"/>
+<text x="1068" y="75" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="800" fill="#00ffe1" text-anchor="middle" letter-spacing="2">OPEN</text>
+<path d="M 1122 70 L 1136 70 M 1130 64 L 1136 70 L 1130 76" stroke="#00ffe1" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

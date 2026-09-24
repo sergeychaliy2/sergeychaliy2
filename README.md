@@ -19,6 +19,8 @@
 
 </div>
 
+<a href="https://sergeychaliy2.github.io"><img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/portfolio-cta.svg" width="100%" alt="Live portfolio - sergeychaliy2.github.io"/></a>
+
 ---
 
 <img src="https://img.shields.io/static/v1?label=%3E&message=./whoami.sh&color=0a0a0a&labelColor=00ffe1&style=for-the-badge" alt="./whoami.sh"/>
