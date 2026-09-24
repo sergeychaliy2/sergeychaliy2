@@ -29,20 +29,7 @@
 
 <img src="https://img.shields.io/static/v1?label=%3E&message=./impact%20--metrics&color=0a0a0a&labelColor=ff006e&style=for-the-badge" alt="./impact --metrics"/>
 
-<div align="center">
-
-| ⚡ What I changed | 📉 Before → After | 📍 Where |
-|---|---|---|
-| **Playable-ad build pipeline** — Unity project → one self-contained HTML | `half a day of manual work` → **`15 min`** · creative fits in **2–4 MB** | Own tooling |
-| **Tech-scenario constructor** — VR training cases authored by plant engineers, no dev in the loop | `~1 week / scenario` → **`1–2 days`** | Enterprise |
-| **CI/CD + autotests** (GitHub Actions, Appium, XCTest) | `30 min build` → **`5 min`** · release no longer depends on one person | Mobile |
-| **Mobile cold start** — lazy loading, ProGuard, `.obb` resource split | **`−40%`** startup time | Mobile |
-| **XR scene performance** — LOD, Occlusion Culling, draw-call batching, GPU Instancing | **`+35% FPS`** | XR Studio |
-| **Quest 3 frametime** on raw BIM geometry — mesh decimation, texture repack | stable **`72 FPS`** | Enterprise |
-| **Production observability** — Crashlytics, Sentry, DataDog | incident response **`2× faster`** | Mobile |
-| **VR rollout at a national training academy** (UAE) | covered by an **official government portal** | XR Studio |
-
-</div>
+<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/impact.svg" width="100%" alt="Measurable results: build times, startup, FPS, observability"/>
 
 ---
 
@@ -54,7 +41,7 @@
 
 <img src="https://img.shields.io/static/v1?label=%3E&message=git%20log%20--graph%20./career/&color=0a0a0a&labelColor=00ffe1&style=for-the-badge" alt="git log --graph ./career/"/>
 
-<br/>
+<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/career.svg" width="100%" alt="Career timeline 2020-2026, engagements overlapping in parallel"/>
 
 <details open>
 <summary><b>🏭 Industrial enterprise · chemical manufacturing</b> &nbsp;·&nbsp; <i>Programmer · leading the VR/XR track</i> &nbsp;·&nbsp; <code>Aug 2025 — present</code> &nbsp;·&nbsp; Veliky Novgorod</summary>
@@ -134,6 +121,12 @@
 
 <img src="https://img.shields.io/static/v1?label=%3E&message=ls%20./shipped_projects/&color=0a0a0a&labelColor=8338ec&style=for-the-badge" alt="ls ./shipped_projects/"/>
 
+<div align="center">
+
+**⸺  ENTERPRISE XR & TRAINING SIMULATORS  ⸺**
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -146,49 +139,55 @@ Unity Editor tool that lets plant process engineers author VR training cases the
 
 **🕌 City-Scale Mixed Reality**<br/>
 Large-scale MR visualization for the UAE government sector.<br/>
-<a href="https://www.youtube.com/watch?v=yCqns8rhgOQ">▶ Watch demo</a>
+<a href="https://www.youtube.com/watch?v=yCqns8rhgOQ"><img src="https://img.shields.io/badge/%E2%96%B6%20watch%20demo-00ffe1?style=flat-square&labelColor=0a0a0a" alt="Watch demo"/></a>
 
 **🚀 Mars Mission — VR Simulation**<br/>
 Interactive simulation of a Mars orbiter mission. HoloLens + Quest, spatial anchoring.<br/>
-<a href="https://www.youtube.com/watch?v=YYXdjZ7qXyw">▶ Watch demo</a>
+<a href="https://www.youtube.com/watch?v=YYXdjZ7qXyw"><img src="https://img.shields.io/badge/%E2%96%B6%20watch%20demo-00ffe1?style=flat-square&labelColor=0a0a0a" alt="Watch demo"/></a>
 
 **🎖 Special Forces — Military Training VR**<br/>
 Deployed at a national training academy (UAE).<br/>
-<a href="https://www.youtube.com/watch?v=yrK9r7-7B7E">▶ Watch demo</a>
-
-**🚒 Firefighting Truck — VR Training**<br/>
-Full-cycle emergency response simulator.<br/>
-<a href="https://www.youtube.com/watch?v=mdwfxaavwzQ">▶ Watch demo</a>
-
-**🔥 Fire Safety Training**<br/>
-Enterprise-grade safety simulator with ML-based evaluation.<br/>
-<a href="https://www.youtube.com/watch?v=7mNIN8ij2_g">▶ Watch demo</a>
-
-**🛠 Industrial Repairing & Troubleshooting**<br/>
-Equipment repair and fault-diagnosis training in VR.<br/>
-<a href="https://www.youtube.com/watch?v=ClJ7ZI2SgnY">▶ Watch demo</a>
-
-**🌱 Environmental Safety**<br/>
-Gamified environmental-security awareness campaign.<br/>
-<a href="https://www.youtube.com/watch?v=phO8KVeMJFk">▶ Watch demo</a>
-
-**🕵️ VR Detective Quest**<br/>
-NPC dialogue + evidence analysis. Part of a national training academy curriculum.
+<a href="https://www.youtube.com/watch?v=yrK9r7-7B7E"><img src="https://img.shields.io/badge/%E2%96%B6%20watch%20demo-00ffe1?style=flat-square&labelColor=0a0a0a" alt="Watch demo"/></a>
 
 </td>
 <td width="50%" valign="top">
 
+**🚒 Firefighting Truck — VR Training**<br/>
+Full-cycle emergency response simulator.<br/>
+<a href="https://www.youtube.com/watch?v=mdwfxaavwzQ"><img src="https://img.shields.io/badge/%E2%96%B6%20watch%20demo-00ffe1?style=flat-square&labelColor=0a0a0a" alt="Watch demo"/></a>
+
+**🔥 Fire Safety Training**<br/>
+Enterprise-grade safety simulator with ML-based evaluation.<br/>
+<a href="https://www.youtube.com/watch?v=7mNIN8ij2_g"><img src="https://img.shields.io/badge/%E2%96%B6%20watch%20demo-00ffe1?style=flat-square&labelColor=0a0a0a" alt="Watch demo"/></a>
+
+**🛠 Industrial Repairing & Troubleshooting**<br/>
+Equipment repair and fault-diagnosis training in VR.<br/>
+<a href="https://www.youtube.com/watch?v=ClJ7ZI2SgnY"><img src="https://img.shields.io/badge/%E2%96%B6%20watch%20demo-00ffe1?style=flat-square&labelColor=0a0a0a" alt="Watch demo"/></a>
+
+**🌱 Environmental Safety**<br/>
+Gamified environmental-security awareness campaign.<br/>
+<a href="https://www.youtube.com/watch?v=phO8KVeMJFk"><img src="https://img.shields.io/badge/%E2%96%B6%20watch%20demo-00ffe1?style=flat-square&labelColor=0a0a0a" alt="Watch demo"/></a>
+
 **🧠 Medical VR Trainer — ML Movement Evaluation**<br/>
 Motion-capture pipeline (Neuron Perception) into MLP/SVM models that score exercise correctness and return recommendations. Inference embedded in Unity.<br/>
-<a href="https://www.youtube.com/watch?v=B1iKENFw3_Q">▶ Watch demo</a>
+<a href="https://www.youtube.com/watch?v=B1iKENFw3_Q"><img src="https://img.shields.io/badge/%E2%96%B6%20watch%20demo-00ffe1?style=flat-square&labelColor=0a0a0a" alt="Watch demo"/></a>
 
-**⚔️ Eternal Battle**<br/>
-Real-time combat experience built in Unity.<br/>
-<a href="https://www.youtube.com/watch?v=_N6lsTr-XqE">▶ Watch demo</a>
+</td>
+</tr>
+</table>
 
-**🧒 Kids Educational Platform**<br/>
-Interactive learning platform for children.<br/>
-<a href="https://www.youtube.com/watch?v=ywP1XHdAXHg">▶ Watch demo</a>
+<div align="center">
+
+**⸺  GAMES & INTERACTIVE  ⸺**
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🕵️ VR Detective Quest**<br/>
+NPC dialogue + evidence analysis. Part of a national training academy curriculum.
 
 **🎮 VR Shooter — Procedural Multiplayer**<br/>
 Procedural level generation, Photon/Mirror multiplayer, voice commands, custom map editor.
@@ -196,8 +195,33 @@ Procedural level generation, Photon/Mirror multiplayer, voice commands, custom m
 **🚗 Professional Driving Simulator**<br/>
 Custom vehicle physics with steering-wheel controller support.
 
+</td>
+<td width="50%" valign="top">
+
 **🎵 VR Rhythm Game**<br/>
 Beat Saber-style rhythm game with user-supplied audio track loading.
+
+**⚔️ Eternal Battle**<br/>
+Real-time combat experience built in Unity.<br/>
+<a href="https://www.youtube.com/watch?v=_N6lsTr-XqE"><img src="https://img.shields.io/badge/%E2%96%B6%20watch%20demo-ff006e?style=flat-square&labelColor=0a0a0a" alt="Watch demo"/></a>
+
+**🧒 Kids Educational Platform**<br/>
+Interactive learning platform for children.<br/>
+<a href="https://www.youtube.com/watch?v=ywP1XHdAXHg"><img src="https://img.shields.io/badge/%E2%96%B6%20watch%20demo-ff006e?style=flat-square&labelColor=0a0a0a" alt="Watch demo"/></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**⸺  TOOLS, MOBILE & WEB  ⸺**
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **📦 Playable Build Kit** — *own tool*<br/>
 Unity Editor plugin for ad creatives. One HTML file out: assets inlined as base64, textures recompressed, unused code stripped, weight validated against Unity Ads / AppLovin / Google Ads / Mintegral / IronSource limits.
@@ -207,6 +231,9 @@ Android/iOS platform for students and faculty at a state university.
 
 **📱 Mobile F2P Apps — IAP / Social / Premium**<br/>
 Full-cycle F2P titles with in-app purchases, subscriptions, server-validated receipts and Telegram-bot integration.
+
+</td>
+<td width="50%" valign="top">
 
 **💹 Exchange Trading Bots**<br/>
 Automated trading for crypto (Binance, Bybit, OKX) and prediction markets (Polymarket). Strategy logic, risk management, real-time market data. Stack picked per task: Python / Node.js / TS / C#.

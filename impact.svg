@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 478" width="1200" height="478">
+<defs>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#0a0a0a"/><stop offset="50%" stop-color="#1a0b2e"/><stop offset="100%" stop-color="#0a0a0a"/>
+</linearGradient>
+<linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#00ffe1"/><stop offset="50%" stop-color="#8338ec"/><stop offset="100%" stop-color="#ff006e"/>
+</linearGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+<feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<rect width="1200" height="478" rx="14" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="1199" height="477" rx="13.5" fill="none" stroke="#00ffe1" stroke-opacity="0.25"/>
+<rect x="0" y="0" width="1200" height="46" rx="14" fill="#000000" fill-opacity="0.45"/>
+<rect x="0" y="32" width="1200" height="14" fill="#000000" fill-opacity="0.45"/>
+<rect x="0" y="45" width="1200" height="1" fill="url(#accent)"/>
+<g><circle cx="26" cy="23" r="5" fill="#00ffe1"/><circle cx="44" cy="23" r="5" fill="#8338ec"/><circle cx="62" cy="23" r="5" fill="#ff006e"/></g>
+<text x="86" y="28" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="600" fill="#ffffff" opacity="0.85" letter-spacing="1">~/profile — ./impact --metrics</text>
+<text x="1178" y="28" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="700" fill="#00ffe1" text-anchor="end" opacity="0.7" letter-spacing="2">◉ REC</text>
+
+<g stroke="#00ffe1" stroke-opacity="0.05" stroke-width="1"><line x1="0" y1="106" x2="1200" y2="106"/><line x1="0" y1="166" x2="1200" y2="166"/><line x1="0" y1="226" x2="1200" y2="226"/><line x1="0" y1="286" x2="1200" y2="286"/><line x1="0" y1="346" x2="1200" y2="346"/><line x1="0" y1="406" x2="1200" y2="406"/><line x1="0" y1="466" x2="1200" y2="466"/><line x1="60" y1="46" x2="60" y2="478"/><line x1="120" y1="46" x2="120" y2="478"/><line x1="180" y1="46" x2="180" y2="478"/><line x1="240" y1="46" x2="240" y2="478"/><line x1="300" y1="46" x2="300" y2="478"/><line x1="360" y1="46" x2="360" y2="478"/><line x1="420" y1="46" x2="420" y2="478"/><line x1="480" y1="46" x2="480" y2="478"/><line x1="540" y1="46" x2="540" y2="478"/><line x1="600" y1="46" x2="600" y2="478"/><line x1="660" y1="46" x2="660" y2="478"/><line x1="720" y1="46" x2="720" y2="478"/><line x1="780" y1="46" x2="780" y2="478"/><line x1="840" y1="46" x2="840" y2="478"/><line x1="900" y1="46" x2="900" y2="478"/><line x1="960" y1="46" x2="960" y2="478"/><line x1="1020" y1="46" x2="1020" y2="478"/><line x1="1080" y1="46" x2="1080" y2="478"/><line x1="1140" y1="46" x2="1140" y2="478"/></g>
+<rect x="30" y="76" width="276" height="148" rx="10" fill="#000000" fill-opacity="0.32" stroke="#00ffe1" stroke-opacity="0.38"/>
+<rect x="44" y="90" width="30" height="3" rx="1.5" fill="#00ffe1" fill-opacity="0.8"/>
+<text x="82" y="96" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" font-weight="700" fill="#00ffe1" opacity="0.8" letter-spacing="1.5">OWN TOOLING</text>
+<g filter="url(#glow)"><text x="168" y="150" font-family="JetBrains Mono, Consolas, monospace" font-size="33" font-weight="800" fill="#00ffe1" text-anchor="middle" letter-spacing="1">15 min</text></g>
+<text x="168" y="179" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="600" fill="#ffffff" text-anchor="middle" opacity="0.95">playable build + upload</text>
+<text x="168" y="202" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" font-weight="400" fill="#ffffff" text-anchor="middle" opacity="0.52">was half a day of manual work</text>
+<rect x="318" y="76" width="276" height="148" rx="10" fill="#000000" fill-opacity="0.32" stroke="#ff006e" stroke-opacity="0.38"/>
+<rect x="332" y="90" width="30" height="3" rx="1.5" fill="#ff006e" fill-opacity="0.8"/>
+<text x="370" y="96" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" font-weight="700" fill="#ff006e" opacity="0.8" letter-spacing="1.5">ENTERPRISE</text>
+<g filter="url(#glow)"><text x="456" y="150" font-family="JetBrains Mono, Consolas, monospace" font-size="33" font-weight="800" fill="#ff006e" text-anchor="middle" letter-spacing="1">1–2 days</text></g>
+<text x="456" y="179" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="600" fill="#ffffff" text-anchor="middle" opacity="0.95">per VR training scenario</text>
+<text x="456" y="202" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" font-weight="400" fill="#ffffff" text-anchor="middle" opacity="0.52">was ~1 week of developer time</text>
+<rect x="606" y="76" width="276" height="148" rx="10" fill="#000000" fill-opacity="0.32" stroke="#8338ec" stroke-opacity="0.38"/>
+<rect x="620" y="90" width="30" height="3" rx="1.5" fill="#8338ec" fill-opacity="0.8"/>
+<text x="658" y="96" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" font-weight="700" fill="#8338ec" opacity="0.8" letter-spacing="1.5">MOBILE</text>
+<g filter="url(#glow)"><text x="744" y="150" font-family="JetBrains Mono, Consolas, monospace" font-size="33" font-weight="800" fill="#8338ec" text-anchor="middle" letter-spacing="1">5 min</text></g>
+<text x="744" y="179" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="600" fill="#ffffff" text-anchor="middle" opacity="0.95">CI build with autotests</text>
+<text x="744" y="202" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" font-weight="400" fill="#ffffff" text-anchor="middle" opacity="0.52">was 30 min · Appium + XCTest</text>
+<rect x="894" y="76" width="276" height="148" rx="10" fill="#000000" fill-opacity="0.32" stroke="#00ffe1" stroke-opacity="0.38"/>
+<rect x="908" y="90" width="30" height="3" rx="1.5" fill="#00ffe1" fill-opacity="0.8"/>
+<text x="946" y="96" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" font-weight="700" fill="#00ffe1" opacity="0.8" letter-spacing="1.5">MOBILE</text>
+<g filter="url(#glow)"><text x="1032" y="150" font-family="JetBrains Mono, Consolas, monospace" font-size="33" font-weight="800" fill="#00ffe1" text-anchor="middle" letter-spacing="1">−40%</text></g>
+<text x="1032" y="179" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="600" fill="#ffffff" text-anchor="middle" opacity="0.95">mobile cold start</text>
+<text x="1032" y="202" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" font-weight="400" fill="#ffffff" text-anchor="middle" opacity="0.52">lazy loading · ProGuard · .obb split</text>
+<rect x="30" y="236" width="276" height="148" rx="10" fill="#000000" fill-opacity="0.32" stroke="#ff006e" stroke-opacity="0.38"/>
+<rect x="44" y="250" width="30" height="3" rx="1.5" fill="#ff006e" fill-opacity="0.8"/>
+<text x="82" y="256" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" font-weight="700" fill="#ff006e" opacity="0.8" letter-spacing="1.5">XR STUDIO</text>
+<g filter="url(#glow)"><text x="168" y="310" font-family="JetBrains Mono, Consolas, monospace" font-size="33" font-weight="800" fill="#ff006e" text-anchor="middle" letter-spacing="1">+35%</text></g>
+<text x="168" y="339" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="600" fill="#ffffff" text-anchor="middle" opacity="0.95">FPS in XR scenes</text>
+<text x="168" y="362" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" font-weight="400" fill="#ffffff" text-anchor="middle" opacity="0.52">LOD · occlusion · batching · GPU inst.</text>
+<rect x="318" y="236" width="276" height="148" rx="10" fill="#000000" fill-opacity="0.32" stroke="#8338ec" stroke-opacity="0.38"/>
+<rect x="332" y="250" width="30" height="3" rx="1.5" fill="#8338ec" fill-opacity="0.8"/>
+<text x="370" y="256" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" font-weight="700" fill="#8338ec" opacity="0.8" letter-spacing="1.5">ENTERPRISE</text>
+<g filter="url(#glow)"><text x="456" y="310" font-family="JetBrains Mono, Consolas, monospace" font-size="33" font-weight="800" fill="#8338ec" text-anchor="middle" letter-spacing="1">72 FPS</text></g>
+<text x="456" y="339" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="600" fill="#ffffff" text-anchor="middle" opacity="0.95">stable on Quest 3</text>
+<text x="456" y="362" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" font-weight="400" fill="#ffffff" text-anchor="middle" opacity="0.52">on raw BIM geometry</text>
+<rect x="606" y="236" width="276" height="148" rx="10" fill="#000000" fill-opacity="0.32" stroke="#00ffe1" stroke-opacity="0.38"/>
+<rect x="620" y="250" width="30" height="3" rx="1.5" fill="#00ffe1" fill-opacity="0.8"/>
+<text x="658" y="256" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" font-weight="700" fill="#00ffe1" opacity="0.8" letter-spacing="1.5">MOBILE</text>
+<g filter="url(#glow)"><text x="744" y="310" font-family="JetBrains Mono, Consolas, monospace" font-size="33" font-weight="800" fill="#00ffe1" text-anchor="middle" letter-spacing="1">2×</text></g>
+<text x="744" y="339" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="600" fill="#ffffff" text-anchor="middle" opacity="0.95">faster incident response</text>
+<text x="744" y="362" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" font-weight="400" fill="#ffffff" text-anchor="middle" opacity="0.52">Crashlytics · Sentry · DataDog</text>
+<rect x="894" y="236" width="276" height="148" rx="10" fill="#000000" fill-opacity="0.32" stroke="#ff006e" stroke-opacity="0.38"/>
+<rect x="908" y="250" width="30" height="3" rx="1.5" fill="#ff006e" fill-opacity="0.8"/>
+<text x="946" y="256" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" font-weight="700" fill="#ff006e" opacity="0.8" letter-spacing="1.5">OWN TOOLING</text>
+<g filter="url(#glow)"><text x="1032" y="310" font-family="JetBrains Mono, Consolas, monospace" font-size="33" font-weight="800" fill="#ff006e" text-anchor="middle" letter-spacing="1">2–4 MB</text></g>
+<text x="1032" y="339" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="600" fill="#ffffff" text-anchor="middle" opacity="0.95">playable creative size</text>
+<text x="1032" y="362" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" font-weight="400" fill="#ffffff" text-anchor="middle" opacity="0.52">within every ad-network limit</text>
+<rect x="30" y="400" width="1140" height="48" rx="10" fill="#000000" fill-opacity="0.32" stroke="#ff006e" stroke-opacity="0.45"/>
+<circle cx="58" cy="424" r="5" fill="#ff006e"/>
+<text x="78" y="420" font-family="JetBrains Mono, Consolas, monospace" font-size="9.5" font-weight="700" fill="#ff006e" opacity="0.85" letter-spacing="1.5">PRESS</text>
+<text x="78" y="436" font-family="JetBrains Mono, Consolas, monospace" font-size="13" font-weight="500" fill="#ffffff" opacity="0.9">VR rollout at a national training academy (UAE) — covered by an official government portal</text>
+</svg>
