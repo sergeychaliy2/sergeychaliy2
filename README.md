@@ -12,6 +12,10 @@
 <img src="https://img.shields.io/github/followers/sergeychaliy2?style=for-the-badge&color=ff006e&labelColor=0a0a0a&logo=github" alt="GitHub followers"/>
 <img src="https://img.shields.io/badge/EXPERIENCE-7%20YEARS-8338ec?style=for-the-badge&labelColor=0a0a0a" alt="Experience"/>
 <img src="https://img.shields.io/badge/REMOTE-WORLDWIDE-00ffe1?style=for-the-badge&labelColor=0a0a0a" alt="Remote"/>
+<br/>
+<img src="https://img.shields.io/badge/MSc-ARTIFICIAL%20INTELLIGENCE-ff006e?style=for-the-badge&labelColor=0a0a0a" alt="MSc in AI"/>
+<img src="https://img.shields.io/badge/ENGLISH-C1%20ADVANCED-00ffe1?style=for-the-badge&labelColor=0a0a0a" alt="English C1"/>
+<img src="https://img.shields.io/badge/SHIPPED-App%20Store%20%C2%B7%20Google%20Play%20%C2%B7%20RuStore-8338ec?style=for-the-badge&labelColor=0a0a0a" alt="Shipped"/>
 
 </div>
 
@@ -23,28 +27,41 @@
 
 ```typescript
 const sergey = {
-  role:        "Unity / XR Engineer · Full-Stack · AI/LLM",
+  role:        "Senior Unity / XR Engineer · Full-Stack · AI/LLM",
   location:    "Veliky Novgorod, Russia → Remote Worldwide",
-  experience:  "7 years cumulative · parallel engagements since 2019",
+  experience:  "7 years · parallel engagements since 2020",
   education:   "MSc in AI · Yaroslav-the-Wise Novgorod State University",
 
   currently: [
-    "🌊 Immerseas  → Unity Developer",
-    "🏭 PAO Acron  → Programmer · Head of VR dept",
+    "🏭 Acron      → Programmer · leading the VR/XR track",
+    "🎣 YAZHERYBAK → Backend developer · contract",
+  ],
+
+  previously: [
+    "🌊 Immerseas    → Unity Developer · VR/AR/MR for UAE & global clients",
+    "📱 Softintermob → Unity Developer · full-cycle F2P mobile",
+    "🎓 NovSU AES    → Unity Developer · medical VR + ML research",
   ],
 
   specialties: [
     "🎮 VR/AR/MR training simulators · enterprise B2B",
-    "📱 Cross-platform mobile games & apps · Android/iOS",
+    "📱 Cross-platform mobile · Unity & Flutter · Android/iOS",
     "🌐 Full-stack web · landing pages · dashboards · admin",
     "💹 Trading bots · crypto/stock exchange automation",
     "⚙️  Node.js backends · internal editors · production tooling",
-    "🧠 On-device LLM agents & voice assistants",
+    "🗄️  Databases & infra · PostgreSQL · MongoDB · Docker on-prem",
+    "🧠 On-prem LLM agents & voice assistants · custom STT/TTS",
     "🔗 Digital twins · BIM · real-time synchronization",
   ],
 
+  ownsEndToEnd: [
+    "architecture", "client", "backend", "database",
+    "infrastructure", "CI/CD", "store release", "production support",
+  ],
+
   languages:  { ru: "native", en: "C1 — Advanced" },
-  portfolio:  "https://sergeyviarovich.tilda.ws",
+  portfolio:  ["https://sergeychaliy2.github.io",
+               "https://sergeyviarovich.tilda.ws"],
   philosophy: "Ship from architecture to release. Own the full cycle.",
 };
 ```
@@ -53,23 +70,49 @@ const sergey = {
 
 ---
 
-<img src="https://img.shields.io/static/v1?label=%3E&message=cat%20current_focus.log&color=0a0a0a&labelColor=ff006e&style=for-the-badge" alt="cat current_focus.log"/>
+<img src="https://img.shields.io/static/v1?label=%3E&message=./impact%20--metrics&color=0a0a0a&labelColor=ff006e&style=for-the-badge" alt="./impact --metrics"/>
+
+<div align="center">
+
+| ⚡ What I changed | 📉 Before → After | 📍 Where |
+|---|---|---|
+| **Playable-ad build pipeline** — Unity project → one self-contained HTML | `half a day of manual work` → **`15 min`** · creative fits in **2–4 MB** | Own tooling |
+| **Tech-scenario constructor** — VR training cases authored by plant engineers, no dev in the loop | `~1 week / scenario` → **`1–2 days`** | Acron |
+| **CI/CD + autotests** (GitHub Actions, Appium, XCTest) | `30 min build` → **`5 min`** · release no longer depends on one person | Softintermob |
+| **Mobile cold start** — lazy loading, ProGuard, `.obb` resource split | **`−40%`** startup time | Softintermob |
+| **XR scene performance** — LOD, Occlusion Culling, draw-call batching, GPU Instancing | **`+35% FPS`** | Immerseas |
+| **Quest 3 frametime** on raw BIM geometry — mesh decimation, texture repack | stable **`72 FPS`** | Acron |
+| **Production observability** — Crashlytics, Sentry, DataDog | incident response **`2× faster`** | Softintermob |
+| **VR at Rabdan Academy** (Abu Dhabi) | covered by the **official Abu Dhabi government portal** | Immerseas |
+
+</div>
+
+---
+
+<img src="https://img.shields.io/static/v1?label=%3E&message=cat%20current_focus.log&color=0a0a0a&labelColor=8338ec&style=for-the-badge" alt="cat current_focus.log"/>
 
 <img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-top.svg" width="100%" alt=""/>
 
 ```yaml
 🏭 Enterprise XR @ Acron (major Russian chemical producer):
-  - Leading VR development department
-  - Closed-circuit AI agent ecosystem via n8n
-  - Custom STT/TTS services (no external cloud dependencies)
-  - On-prem LLMs for contextual corporate assistants
-  - Node.js backends, internal editors, production-tech tooling
-  - Cross-platform VR/AR (Meta Quest, XREAL glasses, Android/iOS)
+  - Leading the VR/XR track end to end — scoping, development, acceptance
+  - Digital twin of the production site: BIM geometry + process logic,
+    live data pulled from external systems over REST API
+  - Unity Editor toolkit — flagship is a tech-scenario constructor:
+    plant engineers author training cases without a developer per iteration
+  - Closed-circuit AI agent ecosystem: on-prem LLMs, in-house STT/TTS
+    services (zero external cloud), agent orchestration via n8n
+  - In-simulator voice assistants: parse operator commands, prompt by regulation
+  - CPU/GPU profiling to a stable 72 FPS on Quest 3 with BIM geometry
+  - Flutter & Unity apps for internal workflows, native Android/iOS modules
+  - Node.js services, PostgreSQL / MongoDB, Docker on-prem, server administration
+  - Ships to Quest 2/3/Pro, HoloLens 2, HTC Vive, XREAL, SteamVR, iOS, Android, PC
 
-🌊 Immerseas — Immersive experiences:
-  - VR/AR/MR products for global clients (UAE, international)
-  - AI avatars with real-time lip-sync (HeyGen, WebRTC, LiveKit)
-  - Low-latency avatar streaming to web & mobile
+🎣 YAZHERYBAK — backend (contract):
+  - REST API and server-side logic, third-party integrations
+  - Schema design, migrations, query optimization, production support
+  - Docker, Yandex Cloud deployment, CI/CD, monitoring
+  - Flutter client wired to the same backend
 
 🔬 R&D interests:
   - Local LLM inference on XR devices
@@ -81,59 +124,151 @@ const sergey = {
 
 ---
 
-<img src="https://img.shields.io/static/v1?label=%3E&message=ls%20./shipped_projects/%20%7C%20head%20-10&color=0a0a0a&labelColor=8338ec&style=for-the-badge" alt="ls ./shipped_projects/ | head -10"/>
+<img src="https://img.shields.io/static/v1?label=%3E&message=git%20log%20--graph%20./career/&color=0a0a0a&labelColor=00ffe1&style=for-the-badge" alt="git log --graph ./career/"/>
+
+<br/>
+
+<details open>
+<summary><b>🏭 Acron</b> &nbsp;·&nbsp; <i>Programmer · head of the VR/XR track</i> &nbsp;·&nbsp; <code>Aug 2025 — present</code> &nbsp;·&nbsp; Veliky Novgorod · chemical production</summary>
+
+<br/>
+
+- Run the enterprise VR/XR track end to end: scoping, development, acceptance.
+- **Digital twin of the production site** — BIM model of the workshop plus the technological logic of the processes, fed by external systems over REST API.
+- Built a **Unity Editor toolkit**. The key piece is a **tech-scenario constructor**: simulators and training cases are assembled by the plant's own process engineers, with no developer in each iteration.
+- Built a **closed-circuit AI agent ecosystem**: on-prem LLMs, in-house STT/TTS services with no external clouds, agent orchestration through n8n. Voice assistants inside the simulators parse operator commands and prompt by regulation.
+- CPU/GPU profiling and XR scene optimization to a target **72 FPS on Quest 3** with BIM geometry — mesh decimation, texture repacking, draw-call reduction.
+- Mobile development for enterprise needs: Flutter and Unity, native Android/iOS modules, integration with internal services.
+- Server side on **Node.js**: internal services, editors, production-tech tooling. Docker on enterprise infrastructure in a closed network, server setup and administration, databases.
+- Releases for **Meta Quest 2/3/Pro, HoloLens 2, HTC Vive, XREAL, SteamVR, iOS, Android and PC**. UI design and implementation, functional testing of product and API, preparation for acceptance trials.
+
+</details>
+
+<details>
+<summary><b>🎣 YAZHERYBAK</b> &nbsp;·&nbsp; <i>Backend developer</i> &nbsp;·&nbsp; <code>contract / outsourced</code></summary>
+
+<br/>
+
+- REST API and server-side logic, integrations with third-party services.
+- **Databases**: schema design, migrations, query optimization, production support — PostgreSQL, MongoDB.
+- **Infrastructure**: Docker, deployment to Yandex Cloud, CI/CD, monitoring.
+- Client side in **Flutter**, wired to the same backend.
+
+</details>
+
+<details>
+<summary><b>🌊 Immerseas</b> &nbsp;·&nbsp; <i>Unity Developer</i> &nbsp;·&nbsp; <code>Dec 2023 — Jun 2026</code> &nbsp;·&nbsp; Nizhny Novgorod / UAE · systems integration</summary>
+
+<br/>
+
+- A series of **VR/AR simulators for UAE government clients** (Rabdan Academy, Abu Dhabi): fire response training, special-forces training, industrial maintenance.
+- **Dubai Mixed Reality Platform** and **UAE Mars Hope** — MR applications for HoloLens and Quest with spatial anchoring of objects.
+- Raised **FPS in XR scenes by 35%**: LOD, Occlusion Culling, batching, GPU Instancing. Profiling with Unity Profiler, Frame Debugger and RenderDoc.
+- **AI avatars with real-time lip-sync**: HeyGen, WebRTC, LiveKit. Low-latency avatar streaming to web and mobile.
+- **Multiplayer** on Photon (PUN, Fusion) and Mirror: state synchronization, authorization, traffic encryption.
+- Migrated projects to **Addressables** and built CI/CD in GitHub Actions: distributable size dropped, nightly builds stopped needing a manual trigger.
+- **Monetization**: in-app purchases and subscriptions with server-side validation through ЮKassa and Firebase Functions.
+- **Ad mediation**: Appodeal and myTarget with local-network support — critical for RuStore builds.
+- **Digital twins** of industrial and agro-industrial enterprises: BIM integration, cloud sync via Azure and Firebase.
+- Releases to Google Play, App Store and RuStore: build, signing, publishing, updates.
+
+</details>
+
+<details>
+<summary><b>📱 Softintermob LLC</b> &nbsp;·&nbsp; <i>Unity Developer</i> &nbsp;·&nbsp; <code>Aug 2023 — Nov 2024</code> &nbsp;·&nbsp; Moscow · software development</summary>
+
+<br/>
+
+- Full-cycle **mobile F2P applications**. Work from spec, references and Figma mockups: architecture design, implementation, store rollout. **Mockup-to-release cycle: two to three weeks.**
+- Sped up **cold start by 40%**: lazy loading, ProGuard, resource split via `.obb`.
+- Automated builds and autotests (GitHub Actions, Appium, XCTest) — **cycle from 30 minutes down to 5**.
+- Introduced **Clean Architecture and Feature Flags**: new mechanics rolled out without a full release, rollback in minutes.
+- Set up **monitoring and alerting** on Firebase Crashlytics, Sentry and DataDog: production issues visible immediately, response time halved.
+- Purchases and subscriptions with **server-side receipt validation**: purchase forgery eliminated, conversion and ARPU up.
+- Store publishing and updates, analytics reporting setup.
+
+</details>
+
+<details>
+<summary><b>🎓 NovSU Advanced Engineering School</b> &nbsp;·&nbsp; <i>Unity Developer</i> &nbsp;·&nbsp; <code>Jan 2020 — Jun 2025</code> &nbsp;·&nbsp; Veliky Novgorod</summary>
+
+<br/>
+
+- Trained **movement-evaluation models for a medical VR simulator**: Motion Capture data (Neuron Perception) into MLP and SVM in Python. Dataset collection and labeling, feature selection, embedding inference into Unity. The system judges whether an exercise is performed correctly and returns recommendations.
+- XR environments on **Oculus SDK, SteamVR and MRTK**, spatial anchoring (Spatial Anchors) for HoloLens.
+- **"Мой НовГУ"** (iOS, Android) — education app for students and faculty.
+- REST API, geolocation algorithms, integration of external sensors into VR simulators.
+- Architecture and release management of cross-platform products.
+
+</details>
+
+---
+
+<img src="https://img.shields.io/static/v1?label=%3E&message=ls%20./shipped_projects/&color=0a0a0a&labelColor=8338ec&style=for-the-badge" alt="ls ./shipped_projects/"/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+**🏭 Acron — Virtual Factory / Digital Twin**<br/>
+BIM-based digital twin of a chemical plant with live process logic and REST-fed external data. Leading the VR/XR track.
+
+**🧰 Tech-Scenario Constructor**<br/>
+Unity Editor tool that lets plant process engineers author VR training cases themselves — a week of dev work down to 1–2 days.
+
 **🕌 Dubai Map — Mixed Reality**<br/>
-Large-scale MR visualization for UAE government sector.<br/>
+Large-scale MR visualization for the UAE government sector.<br/>
 ▶ Watch demo
 
-**🚒 Firefighting Truck — VR Training**<br/>
-Full-cycle emergency response simulator.<br/>
+**🚀 UAE Mars Hope — VR Simulation**<br/>
+Interactive simulation of the UAE Hope Mars mission. HoloLens + Quest, spatial anchoring.<br/>
 ▶ Watch demo
 
 **🎖 Special Forces — Military Training VR**<br/>
 Deployed at Rabdan Academy (UAE).<br/>
 ▶ Watch demo
 
+**🚒 Firefighting Truck — VR Training**<br/>
+Full-cycle emergency response simulator.<br/>
+▶ Watch demo
+
 **🔥 Fire Safety Training**<br/>
 Enterprise-grade safety simulator with ML-based evaluation.<br/>
 ▶ Watch demo
 
-**🚀 UAE Mars Hope — VR Simulation**<br/>
-Interactive simulation of the UAE Hope Mars mission.<br/>
-▶ Watch demo
+**🕵️ VR Detective Quest**<br/>
+NPC dialogue + evidence analysis. Part of the Rabdan Academy curriculum.
 
 </td>
 <td width="50%" valign="top">
 
-**🏭 PAO Acron — Virtual Factory**<br/>
-BIM-based digital twin of a chemical plant. Leading the VR department.
-
-**🧠 AI Training Platform**<br/>
-Motion-capture training with ML-driven exercise evaluation (MLP, SVM).<br/>
+**🧠 Medical VR Trainer — ML Movement Evaluation**<br/>
+Motion-capture pipeline (Neuron Perception) into MLP/SVM models that score exercise correctness and return recommendations. Inference embedded in Unity.<br/>
 ▶ Watch demo
 
-**🕵️ VR Detective Quest**<br/>
-NPC interaction + evidence analysis. Integrated into Rabdan Academy curriculum.
-
 **🎮 VR Shooter — Procedural Multiplayer**<br/>
-Photon/Mirror, voice commands, custom map editor.
+Procedural level generation, Photon/Mirror multiplayer, voice commands, custom map editor.
+
+**🚗 Professional Driving Simulator**<br/>
+Custom vehicle physics with steering-wheel controller support.
+
+**🎵 VR Rhythm Game**<br/>
+Beat Saber-style rhythm game with user-supplied audio track loading.
+
+**📦 Playable Build Kit** — *own tool*<br/>
+Unity Editor plugin for ad creatives. One HTML file out: assets inlined as base64, textures recompressed, unused code stripped, weight validated against Unity Ads / AppLovin / Google Ads / Mintegral / IronSource limits.
 
 **🎓 "Мой НовГУ" — Education App**<br/>
 Android/iOS platform for students and faculty at Novgorod State University.
 
-**📱 Mobile App — IAP / Social / Premium**<br/>
-Mobile app with in-app purchases, social features, premium access & Telegram-bot integration.
+**📱 Mobile F2P Apps — IAP / Social / Premium**<br/>
+Full-cycle F2P titles with in-app purchases, subscriptions, server-validated receipts and Telegram-bot integration.
 
 **💹 Exchange Trading Bots**<br/>
-Automated trading bots for crypto (Binance, Bybit, OKX) and prediction markets (Polymarket). Strategy logic, risk management, real-time market data. Stack picked per task: Python / Node.js / TS / C#.
+Automated trading for crypto (Binance, Bybit, OKX) and prediction markets (Polymarket). Strategy logic, risk management, real-time market data. Stack picked per task: Python / Node.js / TS / C#.
 
 **🌐 Custom Websites & Landing Pages**<br/>
-Full-cycle web development: React/Next.js apps, landing pages, admin dashboards with backend integration. From design to deploy.
+Full-cycle web: React/Next.js apps, landings, admin dashboards with backend integration. From design to deploy.
 
 </td>
 </tr>
@@ -141,9 +276,27 @@ Full-cycle web development: React/Next.js apps, landing pages, admin dashboards 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%93%82_Full_Portfolio-sergeyviarovich.tilda.ws-00ffe1?style=for-the-badge&labelColor=0a0a0a" alt="Portfolio"/>
+<a href="https://sergeychaliy2.github.io"><img src="https://img.shields.io/badge/%F0%9F%92%BB_Dev_Portfolio-sergeychaliy2.github.io-00ffe1?style=for-the-badge&labelColor=0a0a0a" alt="Dev Portfolio"/></a>
+<a href="https://sergeyviarovich.tilda.ws"><img src="https://img.shields.io/badge/%F0%9F%93%82_Full_Portfolio-sergeyviarovich.tilda.ws-8338ec?style=for-the-badge&labelColor=0a0a0a" alt="Portfolio"/></a>
 
 </div>
+
+---
+
+<img src="https://img.shields.io/static/v1?label=%3E&message=ls%20/dev/targets&color=0a0a0a&labelColor=ff006e&style=for-the-badge" alt="ls /dev/targets"/>
+
+<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-top.svg" width="100%" alt=""/>
+
+```console
+XR HEADSETS   Meta Quest 1 · 2 · 3 · Pro    HoloLens 1 · 2    HTC Vive    XREAL glasses
+XR RUNTIMES   OpenXR   SteamVR   Oculus SDK   MRTK   Vuforia   Hurricane VR   VRIF   AutoHand
+SPATIAL       Spatial Anchors    Motion Capture (Neuron Perception)    BIM
+MOBILE        iOS   Android      (Unity · Flutter · native modules)
+DESKTOP/WEB   PC    WebGL        HTML5 playable creatives
+STOREFRONTS   App Store   Google Play   RuStore   —   build · signing · publishing · updates
+```
+
+<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-bottom.svg" width="100%" alt=""/>
 
 ---
 
@@ -158,18 +311,34 @@ Full-cycle web development: React/Next.js apps, landing pages, admin dashboards 
 <img src="https://img.shields.io/badge/Meta_Quest-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Quest"/>
 <img src="https://img.shields.io/badge/OpenXR-FFFFFF?style=for-the-badge&logo=khronosgroup&logoColor=black" alt="OpenXR"/>
 <img src="https://img.shields.io/badge/SteamVR-000000?style=for-the-badge&logo=steam&logoColor=white" alt="SteamVR"/>
-<img src="https://img.shields.io/badge/HoloLens_MRTK-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="HoloLens"/>
-<img src="https://img.shields.io/badge/Vuforia-000000?style=for-the-badge&logo=ptc&logoColor=white" alt="Vuforia"/>
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+<img src="https://img.shields.io/badge/HoloLens_MRTK-0078D4?style=for-the-badge&logoColor=white" alt="HoloLens"/>
+<img src="https://img.shields.io/badge/Vuforia-000000?style=for-the-badge&logoColor=white" alt="Vuforia"/>
+<img src="https://img.shields.io/badge/XREAL-1A1A1A?style=for-the-badge&logoColor=white" alt="XREAL"/>
+<img src="https://img.shields.io/badge/Hurricane_VR_%7C_VRIF_%7C_AutoHand-6A0DAD?style=for-the-badge&logoColor=white" alt="VR interaction frameworks"/>
+
+**⸺  UNITY TOOLBOX  ⸺**
+
+<img src="https://img.shields.io/badge/URP_%7C_HDRP-222222?style=for-the-badge&logo=unity&logoColor=white" alt="URP / HDRP"/>
+<img src="https://img.shields.io/badge/Shader_Graph-1B7F79?style=for-the-badge&logoColor=white" alt="Shader Graph"/>
+<img src="https://img.shields.io/badge/VFX_Graph-B5179E?style=for-the-badge&logoColor=white" alt="VFX Graph"/>
+<img src="https://img.shields.io/badge/DOTS_%C2%B7_ECS_%C2%B7_Jobs_%C2%B7_Burst-FF6B00?style=for-the-badge&logoColor=white" alt="DOTS"/>
+<img src="https://img.shields.io/badge/Addressables_%7C_AssetBundles-000000?style=for-the-badge&logoColor=white" alt="Addressables"/>
+<img src="https://img.shields.io/badge/UI_Toolkit-3E6E9E?style=for-the-badge&logoColor=white" alt="UI Toolkit"/>
+<img src="https://img.shields.io/badge/Timeline_%7C_Animation_Rigging-4B5563?style=for-the-badge&logoColor=white" alt="Timeline"/>
+<img src="https://img.shields.io/badge/DOTween-7CB342?style=for-the-badge&logoColor=white" alt="DOTween"/>
+<img src="https://img.shields.io/badge/Odin_Inspector-D4AF37?style=for-the-badge&logoColor=black" alt="Odin Inspector"/>
+<img src="https://img.shields.io/badge/Editor_Scripting-00BFA5?style=for-the-badge&logoColor=white" alt="Editor Scripting"/>
 
 **⸺  LANGUAGES  ⸺**
 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/C%2B%2B_%C2%B7_Blueprints-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ / Blueprints"/>
 
 **⸺  BACKEND  ⸺**
 
@@ -178,17 +347,19 @@ Full-cycle web development: React/Next.js apps, landing pages, admin dashboards 
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
 <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets"/>
 <img src="https://img.shields.io/badge/Firebase_Functions-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Functions"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Protobuf_%7C_MessagePack-2D3748?style=for-the-badge&logoColor=white" alt="Protobuf / MessagePack"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white" alt="AWS"/>
 
 **⸺  FRONTEND / WEB  ⸺**
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Vanilla JS"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-<img src="https://img.shields.io/badge/Tilda-FFCD32?style=for-the-badge&logo=tilda&logoColor=black" alt="Tilda"/>
+<img src="https://img.shields.io/badge/Tilda-FFCD32?style=for-the-badge&logoColor=black" alt="Tilda"/>
 
 **⸺  TRADING / EXCHANGE BOTS  ⸺**
 
@@ -201,20 +372,24 @@ Full-cycle web development: React/Next.js apps, landing pages, admin dashboards 
 
 **⸺  MOBILE & MONETIZATION  ⸺**
 
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
 <img src="https://img.shields.io/badge/In--App_Purchases-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="IAP"/>
 <img src="https://img.shields.io/badge/%D0%AEKassa-0022E5?style=for-the-badge&logoColor=white" alt="YooKassa"/>
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
 <img src="https://img.shields.io/badge/RuStore-000000?style=for-the-badge&logoColor=white" alt="RuStore"/>
+<img src="https://img.shields.io/badge/Appodeal_%7C_myTarget-5865F2?style=for-the-badge&logoColor=white" alt="Ad mediation"/>
 
 **⸺  AI / LLM / ML  ⸺**
 
-<img src="https://img.shields.io/badge/Local_LLM-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Local LLM"/>
-<img src="https://img.shields.io/badge/Whisper_STT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper"/>
+<img src="https://img.shields.io/badge/On--prem_LLM-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="On-prem LLM"/>
+<img src="https://img.shields.io/badge/Whisper_STT_%2B_TTS-412991?style=for-the-badge&logoColor=white" alt="Whisper STT/TTS"/>
 <img src="https://img.shields.io/badge/n8n_Agents-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 <img src="https://img.shields.io/badge/HeyGen_Avatars-6366F1?style=for-the-badge&logoColor=white" alt="HeyGen"/>
-<img src="https://img.shields.io/badge/ML_MLP_SVM-EE4C2C?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="ML"/>
+<img src="https://img.shields.io/badge/scikit--learn_MLP_%7C_SVM-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/NumPy_%7C_Pandas-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy / Pandas"/>
+<img src="https://img.shields.io/badge/ML--Agents_%7C_A*_%7C_NavMesh-EE4C2C?style=for-the-badge&logoColor=white" alt="ML-Agents"/>
 
 **⸺  MULTIPLAYER / NETWORK  ⸺**
 
@@ -225,19 +400,51 @@ Full-cycle web development: React/Next.js apps, landing pages, admin dashboards 
 
 **⸺  DATABASES / CLOUD  ⸺**
 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 <img src="https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firestore"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Yandex_Cloud-FF0000?style=for-the-badge&logo=yandexcloud&logoColor=white" alt="Yandex Cloud"/>
 <img src="https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Storage"/>
 
-**⸺  DEVOPS / OPTIMIZATION  ⸺**
+**⸺  INFRA / DEVOPS / QA  ⸺**
 
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
-<img src="https://img.shields.io/badge/Addressables-000000?style=for-the-badge&logoColor=white" alt="Addressables"/>
-<img src="https://img.shields.io/badge/LOD_%7C_Occlusion_%7C_Batching-5865F2?style=for-the-badge&logoColor=white" alt="LOD"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Docker_on--prem-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Linux_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
+<img src="https://img.shields.io/badge/Appium_%7C_XCTest-662D91?style=for-the-badge&logoColor=white" alt="Appium / XCTest"/>
+<img src="https://img.shields.io/badge/Git_%7C_Git_LFS-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+**⸺  PROFILING / OBSERVABILITY  ⸺**
+
+<img src="https://img.shields.io/badge/Unity_Profiler_%7C_Memory_Profiler-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Profiler"/>
+<img src="https://img.shields.io/badge/Frame_Debugger-374151?style=for-the-badge&logoColor=white" alt="Frame Debugger"/>
+<img src="https://img.shields.io/badge/RenderDoc-E5322D?style=for-the-badge&logoColor=white" alt="RenderDoc"/>
+<img src="https://img.shields.io/badge/LOD_%7C_Occlusion_%7C_Batching-5865F2?style=for-the-badge&logoColor=white" alt="LOD / Occlusion / Batching"/>
+<img src="https://img.shields.io/badge/Crashlytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Crashlytics"/>
 <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"/>
 <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/>
+
+**⸺  ARCHITECTURE & PATTERNS  ⸺**
+
+<img src="https://img.shields.io/badge/SOLID-1F2937?style=for-the-badge&logoColor=white" alt="SOLID"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-0F766E?style=for-the-badge&logoColor=white" alt="Clean Architecture"/>
+<img src="https://img.shields.io/badge/DDD-7C3AED?style=for-the-badge&logoColor=white" alt="DDD"/>
+<img src="https://img.shields.io/badge/MVC_%7C_MVVM-2563EB?style=for-the-badge&logoColor=white" alt="MVC / MVVM"/>
+<img src="https://img.shields.io/badge/DI_Zenject_%7C_Extenject-BE185D?style=for-the-badge&logoColor=white" alt="Zenject / Extenject"/>
+<img src="https://img.shields.io/badge/Event_Bus-374151?style=for-the-badge&logoColor=white" alt="Event Bus"/>
+<img src="https://img.shields.io/badge/Feature_Flags-059669?style=for-the-badge&logoColor=white" alt="Feature Flags"/>
+
+**⸺  GRAPHICS & PROCESS  ⸺**
+
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+<img src="https://img.shields.io/badge/Substance_Painter-C1272D?style=for-the-badge&logoColor=white" alt="Substance Painter"/>
+<img src="https://img.shields.io/badge/Marmoset_Toolbag-1B1F23?style=for-the-badge&logoColor=white" alt="Marmoset Toolbag"/>
+<img src="https://img.shields.io/badge/Jira_%7C_Trello_%7C_YouGile-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira / Trello / YouGile"/>
+<img src="https://img.shields.io/badge/Agile_Scrum_%7C_Kanban-00875A?style=for-the-badge&logoColor=white" alt="Agile"/>
 
 </div>
 
@@ -262,33 +469,67 @@ Full-cycle web development: React/Next.js apps, landing pages, admin dashboards 
 <img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-top.svg" width="100%" alt=""/>
 
 ```diff
-+ [Acron]        Architected closed-circuit AI agent ecosystem (STT/TTS/LLM on-prem)
-+ [Acron]        Leading VR development department
-+ [Acron]        Built Node.js backends, internal editors & production tooling
-+ [Immerseas]    +35% FPS in VR/AR scenes (Occlusion Culling, LOD, batching)
-+ [Immerseas]    Integrated Motion Capture (Neuron Perception) pipeline
-+ [Immerseas]    Real-time avatar streaming over WebRTC / LiveKit
-+ [Softintermob] −40% build size & faster loading (Lazy loading, ProGuard, .obb)
-+ [Softintermob] −50% crash rate with Firebase/Sentry/DataDog monitoring
-+ [Softintermob] Server-validated IAP & subscriptions (CR/ARPU lift)
-+ [Rabdan UAE]   VR Detective deployed into Rabdan Academy curriculum
-+ [ML]           Built AI exercise-control system (MLP, SVM) from scratch
-+ [Publishing]   Shipped titles to Google Play & RuStore with full release pipeline
++ [Acron]        Tech-scenario constructor — plant engineers author VR cases in 1–2 days, not a week
++ [Acron]        Architected closed-circuit AI agent ecosystem (on-prem LLM + custom STT/TTS + n8n)
++ [Acron]        Digital twin of a chemical plant: BIM geometry + live process data over REST
++ [Acron]        Stable 72 FPS on Quest 3 with raw BIM geometry (decimation, texture repack, draw calls)
++ [Acron]        Leading the VR/XR track end to end — scoping, development, acceptance
++ [Acron]        Node.js services, Docker on-prem in a closed network, server administration
++ [Immerseas]    +35% FPS in VR/AR scenes (Occlusion Culling, LOD, batching, GPU Instancing)
++ [Immerseas]    Real-time AI avatars with lip-sync over WebRTC / LiveKit
++ [Immerseas]    Multiplayer on Photon (PUN, Fusion) & Mirror with encrypted traffic
++ [Immerseas]    Addressables migration + nightly CI/CD — smaller builds, no manual triggers
++ [Rabdan UAE]   VR rollout covered by the official Abu Dhabi government portal
++ [Rabdan UAE]   VR Detective deployed into the Rabdan Academy curriculum
++ [Softintermob] −40% cold start (lazy loading, ProGuard, .obb resource split)
++ [Softintermob] Build 30 min → 5 min; Appium/XCTest autotests; release off the critical person
++ [Softintermob] Monitoring on Crashlytics/Sentry/DataDog — incident response time halved
++ [Softintermob] Server-validated IAP & subscriptions — forgery eliminated, CR/ARPU up
++ [NovSU]        Built an ML exercise-evaluation system from scratch (MoCap → MLP, SVM → Unity)
++ [Tooling]      Playable Build Kit: Unity → single HTML, 2–4 MB, 15 min instead of half a day
++ [Publishing]   Shipped to App Store, Google Play & RuStore with the full release pipeline
 ```
 
 <img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-bottom.svg" width="100%" alt=""/>
 
 ---
 
-<img src="https://img.shields.io/static/v1?label=%3E&message=netstat%20-an%20%7C%20grep%20ESTABLISHED&color=0a0a0a&labelColor=00ffe1&style=for-the-badge" alt="netstat -an | grep ESTABLISHED"/>
+<img src="https://img.shields.io/static/v1?label=%3E&message=cat%20education.log&color=0a0a0a&labelColor=00ffe1&style=for-the-badge" alt="cat education.log"/>
+
+<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-top.svg" width="100%" alt=""/>
+
+```console
+2025  MSc   Yaroslav-the-Wise Novgorod State University
+            Institute of Electronic & Information Systems
+            Computer Science & Engineering — Artificial Intelligence
+
+2023  BSc   Yaroslav-the-Wise Novgorod State University
+            Institute of Electronic & Information Systems
+            Computer Science & Engineering
+
+LANGUAGES   Russian — native        English — C1, fluent
+            UAE client projects run directly in English, no intermediary
+```
+
+<img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-bottom.svg" width="100%" alt=""/>
+
+---
+
+<img src="https://img.shields.io/static/v1?label=%3E&message=netstat%20-an%20%7C%20grep%20ESTABLISHED&color=0a0a0a&labelColor=ff006e&style=for-the-badge" alt="netstat -an | grep ESTABLISHED"/>
 
 <div align="center">
 
-<a href="https://sergeyviarovich.tilda.ws"><img src="https://img.shields.io/badge/Portfolio-sergeyviarovich.tilda.ws-00ffe1?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0a0a0a" alt="Portfolio"/></a>
+<a href="https://sergeychaliy2.github.io"><img src="https://img.shields.io/badge/Dev_Portfolio-sergeychaliy2.github.io-00ffe1?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0a0a0a" alt="Dev Portfolio"/></a>
+<a href="https://sergeyviarovich.tilda.ws"><img src="https://img.shields.io/badge/Portfolio-sergeyviarovich.tilda.ws-8338ec?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0a0a0a" alt="Portfolio"/></a>
 <a href="https://github.com/sergeychaliy2"><img src="https://img.shields.io/badge/GitHub-sergeychaliy2-0a0a0a?style=for-the-badge&logo=github&logoColor=00ffe1" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/sergey-chaliy-b77510327/"><img src="https://img.shields.io/badge/LinkedIn-Sergey_Chaliy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/sergey-chaliy-b77510327/"><img src="https://img.shields.io/badge/LinkedIn-Sergey_Chaliy-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://t.me/russianew_s"><img src="https://img.shields.io/badge/Telegram-%40russianew__s-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="mailto:sergeyviarovich@gmail.com"><img src="https://img.shields.io/badge/Email-sergeyviarovich%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/OPEN_TO-Senior%20Unity%20%C2%B7%20XR%20%C2%B7%20Full--Stack%20roles-00ffe1?style=for-the-badge&labelColor=0a0a0a" alt="Open to"/>
+<img src="https://img.shields.io/badge/BASED_IN-Veliky%20Novgorod%20%C2%B7%20remote%20worldwide-8338ec?style=for-the-badge&labelColor=0a0a0a" alt="Location"/>
 
 </div>
 
