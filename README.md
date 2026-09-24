@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sergeychaliy2&base=2500&style=for-the-badge&color=00ffe1&labelColor=0a0a0a" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=sergeychaliy2&style=for-the-badge&color=00ffe1&labelColor=0a0a0a" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/sergeychaliy2?style=for-the-badge&color=ff006e&labelColor=0a0a0a&logo=github" alt="GitHub followers"/>
 <img src="https://img.shields.io/badge/EXPERIENCE-7%20YEARS-8338ec?style=for-the-badge&labelColor=0a0a0a" alt="Experience"/>
 <img src="https://img.shields.io/badge/REMOTE-WORLDWIDE-00ffe1?style=for-the-badge&labelColor=0a0a0a" alt="Remote"/>
@@ -29,18 +29,29 @@
 const sergey = {
   role:        "Senior Unity / XR Engineer · Full-Stack · AI/LLM",
   location:    "Veliky Novgorod, Russia → Remote Worldwide",
-  experience:  "7 years · parallel engagements since 2020",
+  experience:  "7 years cumulative · parallel engagements since 2020",
   education:   "MSc in AI · Yaroslav-the-Wise Novgorod State University",
 
   currently: [
-    "🏭 Acron      → Programmer · leading the VR/XR track",
-    "🎣 YAZHERYBAK → Backend developer · contract",
+    { at: "Industrial enterprise · chemical manufacturing",
+      as: "Programmer · leading the VR/XR track", since: "Aug 2025" },
+
+    { at: "Contract work",
+      as: "Backend developer",                    since: "Apr 2025" },
   ],
 
   previously: [
-    "🌊 Immerseas    → Unity Developer · VR/AR/MR for UAE & global clients",
-    "📱 Softintermob → Unity Developer · full-cycle F2P mobile",
-    "🎓 NovSU AES    → Unity Developer · medical VR + ML research",
+    { at: "XR studio",
+      as: "Unity Developer · VR/AR/MR for UAE & global clients",
+      period: "Dec 2023 — Jun 2026" },
+
+    { at: "Mobile studio",
+      as: "Unity Developer · full-cycle F2P mobile",
+      period: "Aug 2023 — Nov 2024" },
+
+    { at: "University engineering school",
+      as: "Unity Developer · medical VR + ML research",
+      period: "Jan 2020 — Jun 2025" },
   ],
 
   specialties: [
@@ -77,13 +88,13 @@ const sergey = {
 | ⚡ What I changed | 📉 Before → After | 📍 Where |
 |---|---|---|
 | **Playable-ad build pipeline** — Unity project → one self-contained HTML | `half a day of manual work` → **`15 min`** · creative fits in **2–4 MB** | Own tooling |
-| **Tech-scenario constructor** — VR training cases authored by plant engineers, no dev in the loop | `~1 week / scenario` → **`1–2 days`** | Acron |
-| **CI/CD + autotests** (GitHub Actions, Appium, XCTest) | `30 min build` → **`5 min`** · release no longer depends on one person | Softintermob |
-| **Mobile cold start** — lazy loading, ProGuard, `.obb` resource split | **`−40%`** startup time | Softintermob |
-| **XR scene performance** — LOD, Occlusion Culling, draw-call batching, GPU Instancing | **`+35% FPS`** | Immerseas |
-| **Quest 3 frametime** on raw BIM geometry — mesh decimation, texture repack | stable **`72 FPS`** | Acron |
-| **Production observability** — Crashlytics, Sentry, DataDog | incident response **`2× faster`** | Softintermob |
-| **VR at Rabdan Academy** (Abu Dhabi) | covered by the **official Abu Dhabi government portal** | Immerseas |
+| **Tech-scenario constructor** — VR training cases authored by plant engineers, no dev in the loop | `~1 week / scenario` → **`1–2 days`** | Enterprise |
+| **CI/CD + autotests** (GitHub Actions, Appium, XCTest) | `30 min build` → **`5 min`** · release no longer depends on one person | Mobile |
+| **Mobile cold start** — lazy loading, ProGuard, `.obb` resource split | **`−40%`** startup time | Mobile |
+| **XR scene performance** — LOD, Occlusion Culling, draw-call batching, GPU Instancing | **`+35% FPS`** | XR Studio |
+| **Quest 3 frametime** on raw BIM geometry — mesh decimation, texture repack | stable **`72 FPS`** | Enterprise |
+| **Production observability** — Crashlytics, Sentry, DataDog | incident response **`2× faster`** | Mobile |
+| **VR rollout at a national training academy** (UAE) | covered by an **official government portal** | XR Studio |
 
 </div>
 
@@ -94,7 +105,7 @@ const sergey = {
 <img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-top.svg" width="100%" alt=""/>
 
 ```yaml
-🏭 Enterprise XR @ Acron (major Russian chemical producer):
+🏭 Enterprise XR @ an industrial chemical manufacturer:
   - Leading the VR/XR track end to end — scoping, development, acceptance
   - Digital twin of the production site: BIM geometry + process logic,
     live data pulled from external systems over REST API
@@ -108,7 +119,7 @@ const sergey = {
   - Node.js services, PostgreSQL / MongoDB, Docker on-prem, server administration
   - Ships to Quest 2/3/Pro, HoloLens 2, HTC Vive, XREAL, SteamVR, iOS, Android, PC
 
-🎣 YAZHERYBAK — backend (contract):
+🎣 Contract work — backend (since Apr 2025):
   - REST API and server-side logic, third-party integrations
   - Schema design, migrations, query optimization, production support
   - Docker, Yandex Cloud deployment, CI/CD, monitoring
@@ -129,7 +140,7 @@ const sergey = {
 <br/>
 
 <details open>
-<summary><b>🏭 Acron</b> &nbsp;·&nbsp; <i>Programmer · head of the VR/XR track</i> &nbsp;·&nbsp; <code>Aug 2025 — present</code> &nbsp;·&nbsp; Veliky Novgorod · chemical production</summary>
+<summary><b>🏭 Industrial enterprise · chemical manufacturing</b> &nbsp;·&nbsp; <i>Programmer · leading the VR/XR track</i> &nbsp;·&nbsp; <code>Aug 2025 — present</code> &nbsp;·&nbsp; Veliky Novgorod</summary>
 
 <br/>
 
@@ -145,7 +156,7 @@ const sergey = {
 </details>
 
 <details>
-<summary><b>🎣 YAZHERYBAK</b> &nbsp;·&nbsp; <i>Backend developer</i> &nbsp;·&nbsp; <code>contract / outsourced</code></summary>
+<summary><b>🎣 Contract work</b> &nbsp;·&nbsp; <i>Backend developer</i> &nbsp;·&nbsp; <code>Apr 2025 — present</code> &nbsp;·&nbsp; project-based / outsourced</summary>
 
 <br/>
 
@@ -157,17 +168,17 @@ const sergey = {
 </details>
 
 <details>
-<summary><b>🌊 Immerseas</b> &nbsp;·&nbsp; <i>Unity Developer</i> &nbsp;·&nbsp; <code>Dec 2023 — Jun 2026</code> &nbsp;·&nbsp; Nizhny Novgorod / UAE · systems integration</summary>
+<summary><b>🌊 XR studio</b> &nbsp;·&nbsp; <i>Unity Developer</i> &nbsp;·&nbsp; <code>Dec 2023 — Jun 2026</code> &nbsp;·&nbsp; Nizhny Novgorod / UAE · systems integration</summary>
 
 <br/>
 
-- A series of **VR/AR simulators for UAE government clients** (Rabdan Academy, Abu Dhabi): fire response training, special-forces training, industrial maintenance.
-- **Dubai Mixed Reality Platform** and **UAE Mars Hope** — MR applications for HoloLens and Quest with spatial anchoring of objects.
+- A series of **VR/AR simulators for UAE government clients**, delivered to a national training academy: fire response training, special-forces training, industrial maintenance.
+- A **city-scale mixed-reality platform** and a **Mars mission VR simulation** — MR applications for HoloLens and Quest with spatial anchoring of objects.
 - Raised **FPS in XR scenes by 35%**: LOD, Occlusion Culling, batching, GPU Instancing. Profiling with Unity Profiler, Frame Debugger and RenderDoc.
 - **AI avatars with real-time lip-sync**: HeyGen, WebRTC, LiveKit. Low-latency avatar streaming to web and mobile.
 - **Multiplayer** on Photon (PUN, Fusion) and Mirror: state synchronization, authorization, traffic encryption.
 - Migrated projects to **Addressables** and built CI/CD in GitHub Actions: distributable size dropped, nightly builds stopped needing a manual trigger.
-- **Monetization**: in-app purchases and subscriptions with server-side validation through ЮKassa and Firebase Functions.
+- **Monetization**: in-app purchases and subscriptions with server-side validation through YooKassa and Firebase Functions.
 - **Ad mediation**: Appodeal and myTarget with local-network support — critical for RuStore builds.
 - **Digital twins** of industrial and agro-industrial enterprises: BIM integration, cloud sync via Azure and Firebase.
 - Releases to Google Play, App Store and RuStore: build, signing, publishing, updates.
@@ -175,7 +186,7 @@ const sergey = {
 </details>
 
 <details>
-<summary><b>📱 Softintermob LLC</b> &nbsp;·&nbsp; <i>Unity Developer</i> &nbsp;·&nbsp; <code>Aug 2023 — Nov 2024</code> &nbsp;·&nbsp; Moscow · software development</summary>
+<summary><b>📱 Mobile studio</b> &nbsp;·&nbsp; <i>Unity Developer</i> &nbsp;·&nbsp; <code>Aug 2023 — Nov 2024</code> &nbsp;·&nbsp; Moscow · software development</summary>
 
 <br/>
 
@@ -190,13 +201,13 @@ const sergey = {
 </details>
 
 <details>
-<summary><b>🎓 NovSU Advanced Engineering School</b> &nbsp;·&nbsp; <i>Unity Developer</i> &nbsp;·&nbsp; <code>Jan 2020 — Jun 2025</code> &nbsp;·&nbsp; Veliky Novgorod</summary>
+<summary><b>🎓 University engineering school</b> &nbsp;·&nbsp; <i>Unity Developer</i> &nbsp;·&nbsp; <code>Jan 2020 — Jun 2025</code> &nbsp;·&nbsp; Veliky Novgorod</summary>
 
 <br/>
 
 - Trained **movement-evaluation models for a medical VR simulator**: Motion Capture data (Neuron Perception) into MLP and SVM in Python. Dataset collection and labeling, feature selection, embedding inference into Unity. The system judges whether an exercise is performed correctly and returns recommendations.
 - XR environments on **Oculus SDK, SteamVR and MRTK**, spatial anchoring (Spatial Anchors) for HoloLens.
-- **"Мой НовГУ"** (iOS, Android) — education app for students and faculty.
+- A **university education app** (iOS, Android) — for students and faculty.
 - REST API, geolocation algorithms, integration of external sensors into VR simulators.
 - Architecture and release management of cross-platform products.
 
@@ -210,41 +221,57 @@ const sergey = {
 <tr>
 <td width="50%" valign="top">
 
-**🏭 Acron — Virtual Factory / Digital Twin**<br/>
+**🏭 Virtual Factory — Industrial Digital Twin**<br/>
 BIM-based digital twin of a chemical plant with live process logic and REST-fed external data. Leading the VR/XR track.
 
 **🧰 Tech-Scenario Constructor**<br/>
 Unity Editor tool that lets plant process engineers author VR training cases themselves — a week of dev work down to 1–2 days.
 
-**🕌 Dubai Map — Mixed Reality**<br/>
+**🕌 City-Scale Mixed Reality**<br/>
 Large-scale MR visualization for the UAE government sector.<br/>
-▶ Watch demo
+<a href="https://www.youtube.com/watch?v=yCqns8rhgOQ">▶ Watch demo</a>
 
-**🚀 UAE Mars Hope — VR Simulation**<br/>
-Interactive simulation of the UAE Hope Mars mission. HoloLens + Quest, spatial anchoring.<br/>
-▶ Watch demo
+**🚀 Mars Mission — VR Simulation**<br/>
+Interactive simulation of a Mars orbiter mission. HoloLens + Quest, spatial anchoring.<br/>
+<a href="https://www.youtube.com/watch?v=YYXdjZ7qXyw">▶ Watch demo</a>
 
 **🎖 Special Forces — Military Training VR**<br/>
-Deployed at Rabdan Academy (UAE).<br/>
-▶ Watch demo
+Deployed at a national training academy (UAE).<br/>
+<a href="https://www.youtube.com/watch?v=yrK9r7-7B7E">▶ Watch demo</a>
 
 **🚒 Firefighting Truck — VR Training**<br/>
 Full-cycle emergency response simulator.<br/>
-▶ Watch demo
+<a href="https://www.youtube.com/watch?v=mdwfxaavwzQ">▶ Watch demo</a>
 
 **🔥 Fire Safety Training**<br/>
 Enterprise-grade safety simulator with ML-based evaluation.<br/>
-▶ Watch demo
+<a href="https://www.youtube.com/watch?v=7mNIN8ij2_g">▶ Watch demo</a>
+
+**🛠 Industrial Repairing & Troubleshooting**<br/>
+Equipment repair and fault-diagnosis training in VR.<br/>
+<a href="https://www.youtube.com/watch?v=ClJ7ZI2SgnY">▶ Watch demo</a>
+
+**🌱 Environmental Safety**<br/>
+Gamified environmental-security awareness campaign.<br/>
+<a href="https://www.youtube.com/watch?v=phO8KVeMJFk">▶ Watch demo</a>
 
 **🕵️ VR Detective Quest**<br/>
-NPC dialogue + evidence analysis. Part of the Rabdan Academy curriculum.
+NPC dialogue + evidence analysis. Part of a national training academy curriculum.
 
 </td>
 <td width="50%" valign="top">
 
 **🧠 Medical VR Trainer — ML Movement Evaluation**<br/>
 Motion-capture pipeline (Neuron Perception) into MLP/SVM models that score exercise correctness and return recommendations. Inference embedded in Unity.<br/>
-▶ Watch demo
+<a href="https://www.youtube.com/watch?v=B1iKENFw3_Q">▶ Watch demo</a>
+
+**⚔️ Eternal Battle**<br/>
+Real-time combat experience built in Unity.<br/>
+<a href="https://www.youtube.com/watch?v=_N6lsTr-XqE">▶ Watch demo</a>
+
+**🧒 Kids Educational Platform**<br/>
+Interactive learning platform for children.<br/>
+<a href="https://www.youtube.com/watch?v=ywP1XHdAXHg">▶ Watch demo</a>
 
 **🎮 VR Shooter — Procedural Multiplayer**<br/>
 Procedural level generation, Photon/Mirror multiplayer, voice commands, custom map editor.
@@ -258,8 +285,8 @@ Beat Saber-style rhythm game with user-supplied audio track loading.
 **📦 Playable Build Kit** — *own tool*<br/>
 Unity Editor plugin for ad creatives. One HTML file out: assets inlined as base64, textures recompressed, unused code stripped, weight validated against Unity Ads / AppLovin / Google Ads / Mintegral / IronSource limits.
 
-**🎓 "Мой НовГУ" — Education App**<br/>
-Android/iOS platform for students and faculty at Novgorod State University.
+**🎓 University Education App**<br/>
+Android/iOS platform for students and faculty at a state university.
 
 **📱 Mobile F2P Apps — IAP / Social / Premium**<br/>
 Full-cycle F2P titles with in-app purchases, subscriptions, server-validated receipts and Telegram-bot integration.
@@ -376,7 +403,7 @@ STOREFRONTS   App Store   Google Play   RuStore   —   build · signing · publ
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
 <img src="https://img.shields.io/badge/In--App_Purchases-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="IAP"/>
-<img src="https://img.shields.io/badge/%D0%AEKassa-0022E5?style=for-the-badge&logoColor=white" alt="YooKassa"/>
+<img src="https://img.shields.io/badge/YooKassa-0022E5?style=for-the-badge&logoColor=white" alt="YooKassa"/>
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
 <img src="https://img.shields.io/badge/RuStore-000000?style=for-the-badge&logoColor=white" alt="RuStore"/>
 <img src="https://img.shields.io/badge/Appodeal_%7C_myTarget-5865F2?style=for-the-badge&logoColor=white" alt="Ad mediation"/>
@@ -469,23 +496,23 @@ STOREFRONTS   App Store   Google Play   RuStore   —   build · signing · publ
 <img src="https://raw.githubusercontent.com/sergeychaliy2/sergeychaliy2/main/frame-top.svg" width="100%" alt=""/>
 
 ```diff
-+ [Acron]        Tech-scenario constructor — plant engineers author VR cases in 1–2 days, not a week
-+ [Acron]        Architected closed-circuit AI agent ecosystem (on-prem LLM + custom STT/TTS + n8n)
-+ [Acron]        Digital twin of a chemical plant: BIM geometry + live process data over REST
-+ [Acron]        Stable 72 FPS on Quest 3 with raw BIM geometry (decimation, texture repack, draw calls)
-+ [Acron]        Leading the VR/XR track end to end — scoping, development, acceptance
-+ [Acron]        Node.js services, Docker on-prem in a closed network, server administration
-+ [Immerseas]    +35% FPS in VR/AR scenes (Occlusion Culling, LOD, batching, GPU Instancing)
-+ [Immerseas]    Real-time AI avatars with lip-sync over WebRTC / LiveKit
-+ [Immerseas]    Multiplayer on Photon (PUN, Fusion) & Mirror with encrypted traffic
-+ [Immerseas]    Addressables migration + nightly CI/CD — smaller builds, no manual triggers
-+ [Rabdan UAE]   VR rollout covered by the official Abu Dhabi government portal
-+ [Rabdan UAE]   VR Detective deployed into the Rabdan Academy curriculum
-+ [Softintermob] −40% cold start (lazy loading, ProGuard, .obb resource split)
-+ [Softintermob] Build 30 min → 5 min; Appium/XCTest autotests; release off the critical person
-+ [Softintermob] Monitoring on Crashlytics/Sentry/DataDog — incident response time halved
-+ [Softintermob] Server-validated IAP & subscriptions — forgery eliminated, CR/ARPU up
-+ [NovSU]        Built an ML exercise-evaluation system from scratch (MoCap → MLP, SVM → Unity)
++ [Enterprise]   Tech-scenario constructor — plant engineers author VR cases in 1–2 days, not a week
++ [Enterprise]   Architected closed-circuit AI agent ecosystem (on-prem LLM + custom STT/TTS + n8n)
++ [Enterprise]   Digital twin of a chemical plant: BIM geometry + live process data over REST
++ [Enterprise]   Stable 72 FPS on Quest 3 with raw BIM geometry (decimation, texture repack, draw calls)
++ [Enterprise]   Leading the VR/XR track end to end — scoping, development, acceptance
++ [Enterprise]   Node.js services, Docker on-prem in a closed network, server administration
++ [XR Studio]    +35% FPS in VR/AR scenes (Occlusion Culling, LOD, batching, GPU Instancing)
++ [XR Studio]    Real-time AI avatars with lip-sync over WebRTC / LiveKit
++ [XR Studio]    Multiplayer on Photon (PUN, Fusion) & Mirror with encrypted traffic
++ [XR Studio]    Addressables migration + nightly CI/CD — smaller builds, no manual triggers
++ [GovTech]      VR rollout covered by an official government portal
++ [GovTech]      VR Detective deployed into a national training academy curriculum
++ [Mobile]       −40% cold start (lazy loading, ProGuard, .obb resource split)
++ [Mobile]       Build 30 min → 5 min; Appium/XCTest autotests; release off the critical person
++ [Mobile]       Monitoring on Crashlytics/Sentry/DataDog — incident response time halved
++ [Mobile]       Server-validated IAP & subscriptions — forgery eliminated, CR/ARPU up
++ [Research]     Built an ML exercise-evaluation system from scratch (MoCap → MLP, SVM → Unity)
 + [Tooling]      Playable Build Kit: Unity → single HTML, 2–4 MB, 15 min instead of half a day
 + [Publishing]   Shipped to App Store, Google Play & RuStore with the full release pipeline
 ```
