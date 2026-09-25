@@ -313,158 +313,96 @@ STOREFRONTS   App Store   Google Play   RuStore   —   build · signing · publ
 
 <div align="center">
 
-**⸺  XR / GAME DEV (CORE)  ⸺**
-
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-<img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal"/>
-<img src="https://img.shields.io/badge/Meta_Quest-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Quest"/>
-<img src="https://img.shields.io/badge/OpenXR-FFFFFF?style=for-the-badge&logo=khronosgroup&logoColor=black" alt="OpenXR"/>
-<img src="https://img.shields.io/badge/SteamVR-000000?style=for-the-badge&logo=steam&logoColor=white" alt="SteamVR"/>
-<img src="https://img.shields.io/badge/HoloLens_MRTK-0078D4?style=for-the-badge&logoColor=white" alt="HoloLens"/>
-<img src="https://img.shields.io/badge/Vuforia-000000?style=for-the-badge&logoColor=white" alt="Vuforia"/>
-<img src="https://img.shields.io/badge/XREAL-1A1A1A?style=for-the-badge&logoColor=white" alt="XREAL"/>
-<img src="https://img.shields.io/badge/Hurricane_VR_%7C_VRIF_%7C_AutoHand-6A0DAD?style=for-the-badge&logoColor=white" alt="VR interaction frameworks"/>
-
-**⸺  UNITY TOOLBOX  ⸺**
-
-<img src="https://img.shields.io/badge/URP_%7C_HDRP-222222?style=for-the-badge&logo=unity&logoColor=white" alt="URP / HDRP"/>
-<img src="https://img.shields.io/badge/Shader_Graph-1B7F79?style=for-the-badge&logoColor=white" alt="Shader Graph"/>
-<img src="https://img.shields.io/badge/VFX_Graph-B5179E?style=for-the-badge&logoColor=white" alt="VFX Graph"/>
-<img src="https://img.shields.io/badge/DOTS_%C2%B7_ECS_%C2%B7_Jobs_%C2%B7_Burst-FF6B00?style=for-the-badge&logoColor=white" alt="DOTS"/>
-<img src="https://img.shields.io/badge/Addressables_%7C_AssetBundles-000000?style=for-the-badge&logoColor=white" alt="Addressables"/>
-<img src="https://img.shields.io/badge/UI_Toolkit-3E6E9E?style=for-the-badge&logoColor=white" alt="UI Toolkit"/>
-<img src="https://img.shields.io/badge/Timeline_%7C_Animation_Rigging-4B5563?style=for-the-badge&logoColor=white" alt="Timeline"/>
-<img src="https://img.shields.io/badge/DOTween-7CB342?style=for-the-badge&logoColor=white" alt="DOTween"/>
-<img src="https://img.shields.io/badge/Odin_Inspector-D4AF37?style=for-the-badge&logoColor=black" alt="Odin Inspector"/>
-<img src="https://img.shields.io/badge/Editor_Scripting-00BFA5?style=for-the-badge&logoColor=white" alt="Editor Scripting"/>
-
-**⸺  LANGUAGES  ⸺**
-
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/C%2B%2B_%C2%B7_Blueprints-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ / Blueprints"/>
-
-**⸺  BACKEND  ⸺**
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets"/>
-<img src="https://img.shields.io/badge/Firebase_Functions-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Functions"/>
-<img src="https://img.shields.io/badge/Protobuf_%7C_MessagePack-2D3748?style=for-the-badge&logoColor=white" alt="Protobuf / MessagePack"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logoColor=white" alt="Azure"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white" alt="AWS"/>
-
-**⸺  FRONTEND / WEB  ⸺**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Vanilla JS"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-<img src="https://img.shields.io/badge/Tilda-FFCD32?style=for-the-badge&logoColor=black" alt="Tilda"/>
-
-**⸺  TRADING / EXCHANGE BOTS  ⸺**
-
-<img src="https://img.shields.io/badge/Binance_API-F0B90B?style=for-the-badge&logo=binance&logoColor=black" alt="Binance"/>
-<img src="https://img.shields.io/badge/Bybit_API-F7A600?style=for-the-badge&logoColor=white" alt="Bybit"/>
-<img src="https://img.shields.io/badge/OKX_API-000000?style=for-the-badge&logoColor=white" alt="OKX"/>
-<img src="https://img.shields.io/badge/Polymarket-2D9CDB?style=for-the-badge&logoColor=white" alt="Polymarket"/>
-<img src="https://img.shields.io/badge/ccxt-1E1E1E?style=for-the-badge&logoColor=white" alt="ccxt"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
-
-**⸺  MOBILE & MONETIZATION  ⸺**
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
-<img src="https://img.shields.io/badge/In--App_Purchases-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="IAP"/>
-<img src="https://img.shields.io/badge/YooKassa-0022E5?style=for-the-badge&logoColor=white" alt="YooKassa"/>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
-<img src="https://img.shields.io/badge/RuStore-000000?style=for-the-badge&logoColor=white" alt="RuStore"/>
-<img src="https://img.shields.io/badge/Appodeal_%7C_myTarget-5865F2?style=for-the-badge&logoColor=white" alt="Ad mediation"/>
-
-**⸺  AI / LLM / ML  ⸺**
-
-<img src="https://img.shields.io/badge/On--prem_LLM-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="On-prem LLM"/>
-<img src="https://img.shields.io/badge/Whisper_STT_%2B_TTS-412991?style=for-the-badge&logoColor=white" alt="Whisper STT/TTS"/>
-<img src="https://img.shields.io/badge/n8n_Agents-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-<img src="https://img.shields.io/badge/HeyGen_Avatars-6366F1?style=for-the-badge&logoColor=white" alt="HeyGen"/>
-<img src="https://img.shields.io/badge/scikit--learn_MLP_%7C_SVM-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/NumPy_%7C_Pandas-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy / Pandas"/>
-<img src="https://img.shields.io/badge/ML--Agents_%7C_A*_%7C_NavMesh-EE4C2C?style=for-the-badge&logoColor=white" alt="ML-Agents"/>
-
-**⸺  MULTIPLAYER / NETWORK  ⸺**
-
-<img src="https://img.shields.io/badge/Photon_PUN_Fusion-1E1E1E?style=for-the-badge&logoColor=white" alt="Photon"/>
-<img src="https://img.shields.io/badge/Mirror_Networking-4B0082?style=for-the-badge&logoColor=white" alt="Mirror"/>
-<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
-<img src="https://img.shields.io/badge/LiveKit-FF4D4F?style=for-the-badge&logoColor=white" alt="LiveKit"/>
-
-**⸺  DATABASES / CLOUD  ⸺**
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-<img src="https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firestore"/>
-<img src="https://img.shields.io/badge/Yandex_Cloud-FF0000?style=for-the-badge&logo=yandexcloud&logoColor=white" alt="Yandex Cloud"/>
-<img src="https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Storage"/>
-
-**⸺  INFRA / DEVOPS / QA  ⸺**
-
-<img src="https://img.shields.io/badge/Docker_on--prem-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Linux_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
-<img src="https://img.shields.io/badge/Appium_%7C_XCTest-662D91?style=for-the-badge&logoColor=white" alt="Appium / XCTest"/>
-<img src="https://img.shields.io/badge/Git_%7C_Git_LFS-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-
-**⸺  PROFILING / OBSERVABILITY  ⸺**
-
-<img src="https://img.shields.io/badge/Unity_Profiler_%7C_Memory_Profiler-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Profiler"/>
-<img src="https://img.shields.io/badge/Frame_Debugger-374151?style=for-the-badge&logoColor=white" alt="Frame Debugger"/>
-<img src="https://img.shields.io/badge/RenderDoc-E5322D?style=for-the-badge&logoColor=white" alt="RenderDoc"/>
-<img src="https://img.shields.io/badge/LOD_%7C_Occlusion_%7C_Batching-5865F2?style=for-the-badge&logoColor=white" alt="LOD / Occlusion / Batching"/>
-<img src="https://img.shields.io/badge/Crashlytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Crashlytics"/>
-<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"/>
-<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/>
-
-**⸺  ARCHITECTURE & PATTERNS  ⸺**
-
-<img src="https://img.shields.io/badge/SOLID-1F2937?style=for-the-badge&logoColor=white" alt="SOLID"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-0F766E?style=for-the-badge&logoColor=white" alt="Clean Architecture"/>
-<img src="https://img.shields.io/badge/DDD-7C3AED?style=for-the-badge&logoColor=white" alt="DDD"/>
-<img src="https://img.shields.io/badge/MVC_%7C_MVVM-2563EB?style=for-the-badge&logoColor=white" alt="MVC / MVVM"/>
-<img src="https://img.shields.io/badge/DI_Zenject_%7C_Extenject-BE185D?style=for-the-badge&logoColor=white" alt="Zenject / Extenject"/>
-<img src="https://img.shields.io/badge/Event_Bus-374151?style=for-the-badge&logoColor=white" alt="Event Bus"/>
-<img src="https://img.shields.io/badge/Feature_Flags-059669?style=for-the-badge&logoColor=white" alt="Feature Flags"/>
-
-**⸺  EMBEDDED & AUTOMOTIVE  ⸺**
-
-<img src="https://img.shields.io/badge/C_%2F_C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C / C++"/>
-<img src="https://img.shields.io/badge/Embedded_Firmware-4B5563?style=for-the-badge&logoColor=white" alt="Embedded firmware"/>
-<img src="https://img.shields.io/badge/Automotive_HMI-1F2937?style=for-the-badge&logoColor=white" alt="Automotive HMI"/>
-<img src="https://img.shields.io/badge/Low--level_integration-6A0DAD?style=for-the-badge&logoColor=white" alt="Low-level integration"/>
-<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logoColor=white" alt="Computer vision"/>
-<img src="https://img.shields.io/badge/Geolocation_%C2%B7_Maps-0F766E?style=for-the-badge&logoColor=white" alt="Geolocation and maps"/>
-
-**⸺  GRAPHICS & PROCESS  ⸺**
-
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
-<img src="https://img.shields.io/badge/Substance_Painter-C1272D?style=for-the-badge&logoColor=white" alt="Substance Painter"/>
-<img src="https://img.shields.io/badge/Marmoset_Toolbag-1B1F23?style=for-the-badge&logoColor=white" alt="Marmoset Toolbag"/>
-<img src="https://img.shields.io/badge/Jira_%7C_Trello_%7C_YouGile-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira / Trello / YouGile"/>
-<img src="https://img.shields.io/badge/Agile_Scrum_%7C_Kanban-00875A?style=for-the-badge&logoColor=white" alt="Agile"/>
+<img src="https://skillicons.dev/icons?i=unity,unrealengine,cs,dotnet,cpp,c,python,typescript,javascript,dart,java,flutter,react,nextjs,nodejs,expressjs,postgresql,mongodb,firebase,docker,linux,git,githubactions,gitlab,azure,aws,gcp,scikitlearn,opencv,blender,figma,sqlite,mysql&perline=11" alt="Tech stack"/>
 
 </div>
+
+<details>
+<summary><b>🥽 &nbsp;XR, game dev & Unity</b></summary>
+<br/>
+
+`Unity` `Unreal Engine` `OpenXR` `MRTK` `Oculus SDK` `SteamVR` `Vuforia` `Hurricane VR` `VRIF` `AutoHand`
+`Meta Quest 1–3 / Pro` `HoloLens 1–2` `HTC Vive` `XREAL` `Spatial Anchors` `Motion Capture (Neuron Perception)` `BIM`
+
+`URP` `HDRP` `Shader Graph` `VFX Graph` `DOTS — ECS · Job System · Burst` `Addressables` `AssetBundles`
+`UI Toolkit` `Timeline` `Animation Rigging` `DOTween` `Odin Inspector` `Editor scripting`
+
+</details>
+
+<details>
+<summary><b>💬 &nbsp;Languages</b></summary>
+<br/>
+
+`C#` `Python` `TypeScript` `JavaScript` `Dart` `Java` `SQL` `C` `C++` `Blueprints`
+
+</details>
+
+<details>
+<summary><b>🗄 &nbsp;Backend, data & networking</b></summary>
+<br/>
+
+`Node.js` `Express` `REST API` `WebSockets` `Protobuf` `MessagePack`
+`PostgreSQL` `MySQL` `SQLite` `MongoDB` `Firebase — Auth · Firestore · Cloud Functions`
+`Photon (PUN · Fusion)` `Mirror` `WebRTC` `LiveKit`
+
+Schema design, migrations, query optimization, production support.
+
+</details>
+
+<details>
+<summary><b>🌐 &nbsp;Frontend, web & design</b></summary>
+<br/>
+
+`React` `Next.js` `HTML5` `CSS3` `vanilla JS` `Tilda`
+`Figma` `Blender` `Substance Painter` `Marmoset Toolbag`
+
+Landing pages, admin dashboards, e-commerce front ends wired to their own backend.
+
+</details>
+
+<details>
+<summary><b>☁️ &nbsp;Cloud, infrastructure, CI/CD & QA</b></summary>
+<br/>
+
+`Docker — on-prem, closed networks` `Linux administration` `Yandex Cloud` `Azure` `AWS` `Cloud Storage`
+`GitHub Actions` `GitLab CI` `Git` `Git LFS` `Appium` `XCTest`
+
+`Unity Profiler` `Frame Debugger` `RenderDoc` `Memory Profiler` `LOD · Occlusion · batching`
+`Crashlytics` `Sentry` `DataDog`
+
+</details>
+
+<details>
+<summary><b>🧠 &nbsp;AI, ML & automation</b></summary>
+<br/>
+
+`On-prem LLMs` `Whisper STT / TTS` `n8n agent orchestration` `HeyGen avatars`
+`scikit-learn` `NumPy` `Pandas` `MLP` `SVM` `Computer Vision` `ML-Agents` `A*` `NavMesh`
+
+`Binance` `Bybit` `OKX` `Polymarket` `ccxt` — strategy logic, risk management, live market data.
+
+</details>
+
+<details>
+<summary><b>📱 &nbsp;Mobile, embedded & automotive</b></summary>
+<br/>
+
+`Unity` `Flutter` `native Android / iOS modules` `WebGL`
+`App Store` `Google Play` `RuStore` `IAP & subscriptions, server-validated` `YooKassa` `Stripe` `Appodeal` `myTarget`
+
+`C / C++ firmware` `automotive HMI` `low-level vehicle integration` `geolocation & maps`
+
+</details>
+
+<details>
+<summary><b>📐 &nbsp;Architecture & process</b></summary>
+<br/>
+
+`SOLID` `Clean Architecture` `DDD` `MVC / MVVM` `Dependency Injection — Zenject · Extenject` `Event Bus` `Feature Flags`
+
+`Jira` `Trello` `YouGile` `Agile — Scrum · Kanban`
+
+</details>
 
 ---
 
